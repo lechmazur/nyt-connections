@@ -25,6 +25,10 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | Qwen 2.5 72B | 14.8
 | DeepSeek-V2.5 | 9.9
 
+## Notes
+- A temperature setting of 0 was used
+- Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms]
+
 ## Updates and Other Benchmarks
 Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
 
