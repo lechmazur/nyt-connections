@@ -27,6 +27,8 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 
 ## Notes
 - A temperature setting of 0 was used
+- Partial credit is awarded if the puzzle isn't completely solved. 
+- Only one attempt is allowed per puzzle. Humans solving puzzles on the NYT website get four attempts and a notification when they're one step away from the solution.
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms]
 
 ## Updates and Other Benchmarks
