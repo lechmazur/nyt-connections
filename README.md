@@ -4,7 +4,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 
 # Chart
 
-![bab3e552d42c8a0ca10fa5665e02cad6b4b15e2fcb259e3ee86ae493bf4792fc](https://github.com/user-attachments/assets/f17b50fd-8160-459a-ac11-8777848670c5)
+![NYT Connections (436 puzzles)_ (7)](https://github.com/user-attachments/assets/58b0eee2-6e5e-4493-a96e-4dc9949d506e)
 
 ## Leaderboard
 
@@ -18,8 +18,8 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | Llama 3.1 405B | 26.3
 | Claude 3 Opus | 24.8
 | Claude 3.5 Sonnet | 24.4
+| Grok Beta | 23.7
 | Gemini 1.5 Pro (Sept) | 22.7
-| Grok 2 | 21.3
 | Gemma 2 27B | 18.8
 | Mistral Large 2 | 17.4
 | Qwen 2.5 72B | 14.8
@@ -32,5 +32,6 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
 
 ## Updates and Other Benchmarks
-Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
+- Grok Beta added. Improves from 21.3 to 23.7. It's described as "experimental language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases. It is the successor of Grok 2 with enhanced context length."
+- Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
 
