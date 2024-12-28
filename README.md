@@ -22,7 +22,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | Grok Beta | 23.7
 | Llama 3.3 70B | 23.7
 | Gemini 1.5 Pro (Sept) | 22.7
-| Deepseek-V3 | 20.0
+| Deepseek-V3 | 21.0
 | Gemini 2.0 Flash Exp | 20.0
 | Gemma 2 27B | 18.8
 | Mistral Large 2 | 17.4
