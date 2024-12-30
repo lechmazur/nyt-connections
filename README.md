@@ -41,6 +41,6 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - Claude 3.5 Haiku added. 13.7.
 - Claude 3.5 Sonnet (2024-10-22) added. Improves from 25.9 from 24.4.
 - Grok Beta added. Improves from 21.3 to 23.7. It's described as "experimental language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases. It is the successor of Grok 2 with enhanced context length."
-- Also check out [LLM Confabulations ](https://github.com/lechmazur/confabulations/) and [LLM Deceptiveness and Gullibility Benchmark](https://github.com/lechmazur/deception).
+- Also check out [LLM Confabulations ](https://github.com/lechmazur/confabulations/),  [LLM Deceptiveness and Gullibility Benchmark](https://github.com/lechmazur/deception), and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
 
