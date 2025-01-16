@@ -29,8 +29,8 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | Gemini 2.0 Flash Thinking Exp	| 18.6
 | Mistral Large 2 | 17.4
 | Qwen 2.5 72B | 14.8
-| MiniMax-Text-01 | 13.6
 | Claude 3.5 Haiku | 13.7
+| MiniMax-Text-01 | 13.6
 | DeepSeek-V2.5 | 9.9
 
 ## Notes
