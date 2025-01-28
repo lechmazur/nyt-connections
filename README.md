@@ -4,7 +4,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 
 # Chart
 
-![NYT Connections (436 puzzles)_ (22)](https://github.com/user-attachments/assets/f61e7b5b-b678-4edc-afed-e6958359d61b)
+![image](https://github.com/user-attachments/assets/4eb01658-f4e4-4f38-b338-fe947dff3e14)
 
 ## Leaderboard
 
@@ -27,6 +27,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | Deepseek-V3 | 21.0
 | Gemini 2.0 Flash Exp | 20.0
 | Gemma 2 27B | 18.8
+| Qwen 2.5 Max | 18.6
 | Gemini 2.0 Flash Thinking Exp	| 18.6
 | Mistral Large 2 | 17.4
 | Qwen 2.5 72B | 14.8
@@ -43,6 +44,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
 
 ## Updates and Other Benchmarks
+- Jan 28, 2025: Qwen 2.5 Max (18.6) added.
 - Jan 22, 2025: Phi-4 (11.6), Nova Pro (12.5), Gemini 2.0 Flash Thinking Exp 01-21 (37.0) added.
 - Jan 16, 2025: Gemini 2.0 Flash Thinking Exp, o1, MiniMax-Tex-o1 added. Gemini 2.0 Flash Thinking Exp sometimes hits the output token limit.
 - Dec 27, 2024: GPT-4o 2024-11-20, Llama 3.3 70B, Gemini 2.0 Flash Exp, Deepseek-V3 added. Gemini 2.0 Flash Thinking Exp could not be benchmarked because its output gets cut off for some puzzles.
