@@ -4,7 +4,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 
 # Chart
 
-![image](https://github.com/user-attachments/assets/4eb01658-f4e4-4f38-b338-fe947dff3e14)
+![nyt_connections_chart](https://github.com/user-attachments/assets/676a9b52-5284-4f7e-be93-1678a59c8c46)
 
 ## Leaderboard
 
@@ -12,6 +12,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | --- | --- |
 | o1 | 90.7
 | o1-preview | 87.1
+| DeepSeek R1 | 54.4
 | o1-mini | 42.2
 | Multi-turn ensemble | 37.8
 | Gemini 2.0 Flash Thinking Exp 01-21 | 37.0
@@ -44,6 +45,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
 
 ## Updates and Other Benchmarks
+- Jan 29, 2025: DeepSeek R1 (54.5) added.
 - Jan 28, 2025: Qwen 2.5 Max (18.6) added.
 - Jan 22, 2025: Phi-4 (11.6), Nova Pro (12.5), Gemini 2.0 Flash Thinking Exp 01-21 (37.0) added.
 - Jan 16, 2025: Gemini 2.0 Flash Thinking Exp, o1, MiniMax-Tex-o1 added. Gemini 2.0 Flash Thinking Exp sometimes hits the output token limit.
