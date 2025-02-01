@@ -45,6 +45,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - Partial credit is awarded if the puzzle isn't completely solved. 
 - Only one attempt is allowed per puzzle. Humans solving puzzles on the NYT website get four attempts and a notification when they're one step away from the solution.
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
+- This benchmark is not affiliated with the New York Times
 
 ## Updates and Other Benchmarks
 - Jan 31, 2025: o3-mini (72.4) added.
