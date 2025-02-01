@@ -4,7 +4,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 
 # Chart
 
-![nyt_connections_chart](https://github.com/user-attachments/assets/c35c25b0-d656-40ed-a6ea-b8c8b018ae61)
+![nyt_connections_chart](https://github.com/user-attachments/assets/05adf945-c791-474b-8fe2-0b95b8008bcc)
 
 ## Leaderboard
 
@@ -12,6 +12,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | --- | --- |
 | o1 | 90.7
 | o1-preview | 87.1
+| o3-mini | 72.4
 | DeepSeek R1 | 54.4
 | o1-mini | 42.2
 | Multi-turn ensemble | 37.8
@@ -46,6 +47,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
 
 ## Updates and Other Benchmarks
+- Jan 31, 2025: o3-mini (72.4) added.
 - Jan 30, 2025: Mistral Small 3 (10.5) added.
 - Jan 29, 2025: DeepSeek R1 (54.5) added.
 - Jan 28, 2025: Qwen 2.5 Max (18.6) added.
