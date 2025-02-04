@@ -79,6 +79,10 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |25|Mistral Small 3|8.9|
 |26|Claude 3 Haiku|2.2|
 
+### Correlation of puzzle-level results: heatmap
+
+![llm_puzzle_corr](https://github.com/user-attachments/assets/f8d1211e-4cae-4a67-9ca6-46bc6f100cb5)
+
 ## Newest 100 puzzles. 
 
 To counteract the possibility of an LLM's training data including the solutions, we have also tested only the 100 latest puzzles. Note that lower scores do not necessarily indicate that NYT Connections solutions are in the training data, as the difficulty of the first puzzles was lower.
@@ -127,7 +131,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 - This benchmark is not affiliated with the New York Times
 
 ## Updates and Other Benchmarks
-- Feb 4, 2025: A new, more challenging version with extra words in each puzzle. Separate scoring for the 100 newest questions.
+- Feb 4, 2025: A new, more challenging version with extra words in each puzzle. Separate scoring for the 100 newest questions. Correlation heatmap.
 - Jan 31, 2025: o3-mini (72.4) added.
 - Jan 30, 2025: Mistral Small 3 (10.5) added.
 - Jan 29, 2025: DeepSeek R1 (54.5) added.
