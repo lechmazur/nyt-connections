@@ -46,7 +46,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 
 ### Chart: Extended Version
 
-![nyt_connections_chart](https://github.com/user-attachments/assets/0205091e-b980-4c7d-8cb4-54afeac231ac)
+![nyt_connections_chart](https://github.com/user-attachments/assets/758eb7ad-a778-497a-9eff-0421cab760a2)
 
 ### Leaderboard: Extended Version
 
@@ -57,31 +57,32 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |3|DeepSeek R1|37.6|
 |4|o1-mini|26.4|
 |5|Gemini 2.0 Flash Think Exp 01-21|22.5|
-|6|Grok 2 12-12|19.3|
-|7|Gemini 1.5 Pro (Sept)|19.2|
-|8|Gemini 1.5 Flash|19.1|
-|9|Claude 3 Opus|18.9|
-|10|GPT-4o|17.8|
-|11|Gemini 2.0 Flash Exp|17.6|
-|12|Claude 3.5 Sonnet 2024-10-22|17.6|
-|13|Qwen 2.5 Max|17.3|
-|14|Llama 3.1 405B|15.6|
-|15|DeepSeek-V3|14.9|
-|16|Llama 3.3 70B|14.7|
-|17|MiniMax-Text-01|14.4|
-|18|Mistral Large 2|12.5|
-|19|Gemma 2 27B|12.0|
-|20|Qwen 2.5 72B|10.9|
-|21|Claude 3.5 Haiku|10.0|
-|22|Amazon Nova Pro|9.9|
-|23|Microsoft Phi-4|9.8|
-|24|GPT-4o mini|9.6|
-|25|Mistral Small 3|8.9|
-|26|Claude 3 Haiku|2.2|
+|6|Gemini 2.0 Pro Exp 02-05|21.2|
+|7|Grok 2 12-12|19.3|
+|8|Gemini 1.5 Pro (Sept)|19.2|
+|9|Gemini 1.5 Flash|19.1|
+|10|Claude 3 Opus|18.9|
+|11|Gemini 2.0 Flash|18.3|
+|12|GPT-4o|17.8|
+|13|Claude 3.5 Sonnet 2024-10-22|17.6|
+|14|Qwen 2.5 Max|17.3|
+|15|Llama 3.1 405B|15.6|
+|16|DeepSeek-V3|14.9|
+|17|Llama 3.3 70B|14.7|
+|18|MiniMax-Text-01|14.4|
+|19|Mistral Large 2|12.5|
+|20|Gemma 2 27B|12.0|
+|21|Qwen 2.5 72B|10.9|
+|22|Claude 3.5 Haiku|10.0|
+|23|Amazon Nova Pro|9.9|
+|24|Microsoft Phi-4|9.8|
+|25|GPT-4o mini|9.6|
+|26|Mistral Small 3|8.9|
+|27|Claude 3 Haiku|2.2|
 
 ### Correlation of puzzle-level results: heatmap
 
-![llm_puzzle_corr](https://github.com/user-attachments/assets/f8d1211e-4cae-4a67-9ca6-46bc6f100cb5)
+![llm_puzzle_corr](https://github.com/user-attachments/assets/1e8cd260-2571-4dcb-a56b-ee59206ee9fa)
 
 ## Newest 100 puzzles. 
 
@@ -89,7 +90,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 
 ### Chart: Newest 100 puzzles, extended version
 
-![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/281c72c1-d96a-4e39-b7a2-f81abc7e5e7d)
+![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/a33c7316-32b4-403b-9ec0-777abf662136)
 
 ### Leaderboard: Newest 100 puzzles, extended version
 
@@ -101,26 +102,27 @@ To counteract the possibility of an LLM's training data including the solutions,
 |4|o1-mini|18.8|
 |5|Gemini 2.0 Flash Think Exp 01-21|15.2|
 |6|Qwen 2.5 Max|13.8|
-|7|Gemini 2.0 Flash Exp|13.5|
-|8|Llama 3.1 405B|13.2|
+|7|Llama 3.1 405B|13.2|
+|8|Gemini 2.0 Flash|12.8|
 |9|Claude 3 Opus|12.8|
 |10|DeepSeek-V3|12.2|
-|11|GPT-4o|12.0|
-|12|Gemini 1.5 Flash|11.5|
-|13|MiniMax-Text-01|11.2|
-|14|Claude 3.5 Sonnet 2024-10-22|11.2|
-|15|Gemini 1.5 Pro (Sept)|11.0|
-|16|Grok 2 12-12|11.0|
-|17|Llama 3.3 70B|10.8|
-|18|Gemma 2 27B|8.2|
-|19|Qwen 2.5 72B|8.0|
-|20|Mistral Large 2|7.0|
-|21|Claude 3.5 Haiku|6.5|
-|22|Amazon Nova Pro|6.5|
-|23|Microsoft Phi-4|6.0|
-|24|GPT-4o mini|5.2|
-|25|Mistral Small 3|3.5|
-|26|Claude 3 Haiku|1.2|
+|11|Gemini 2.0 Pro Exp 02-05|12.2|
+|12|GPT-4o|12.0|
+|13|Gemini 1.5 Flash|11.5|
+|14|MiniMax-Text-01|11.2|
+|15|Claude 3.5 Sonnet 2024-10-22|11.2|
+|16|Gemini 1.5 Pro (Sept)|11.0|
+|17|Grok 2 12-12|11.0|
+|18|Llama 3.3 70B|10.8|
+|19|Gemma 2 27B|8.2|
+|20|Qwen 2.5 72B|8.0|
+|21|Mistral Large 2|7.0|
+|22|Claude 3.5 Haiku|6.5|
+|23|Amazon Nova Pro|6.5|
+|24|Microsoft Phi-4|6.0|
+|25|GPT-4o mini|5.2|
+|26|Mistral Small 3|3.5|
+|27|Claude 3 Haiku|1.2|
 
 
 ## Notes
@@ -131,6 +133,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 - This benchmark is not affiliated with the New York Times
 
 ## Updates and Other Benchmarks
+- Feb 6, 2025: Gemini 2.0 Pro Exp 02-05 added
 - Feb 4, 2025: A new, more challenging version with extra words in each puzzle. Separate scoring for the 100 newest questions. Correlation heatmap.
 - Jan 31, 2025: o3-mini (72.4) added.
 - Jan 30, 2025: Mistral Small 3 (10.5) added.
