@@ -4,7 +4,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 
 ### Chart: Extended Version
 
-![nyt_connections_chart](https://github.com/user-attachments/assets/6b6e34a8-b456-4516-bab1-3044e89c3659)
+![nyt_connections_chart](https://github.com/user-attachments/assets/a39a1a78-acb1-443b-bd59-67e68a07397f)
 
 ### Leaderboard: Extended Version
 
@@ -13,14 +13,14 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |1|o1 (medium reasoning)|69.7|
 |2|o3-mini (medium reasoning)|52.5|
 |3|DeepSeek R1|37.6|
-|4|Clade 3.7 Sonnet Thinking 16K|33.5|
+|4|Claude 3.7 Sonnet Thinking 16K|33.5|
 |5|o1-mini|26.4|
 |6|Gemini 2.0 Flash Think Exp 01-21|22.5|
 |7|GPT-4o Feb 2025|22.4|
 |8|Gemini 2.0 Pro Exp 02-05|21.2|
 |9|Grok 2 12-12|19.3|
 |10|Gemini 1.5 Pro (Sept)|19.2|
-|11|Clade 3.7 Sonnet|18.9|
+|11|Claude 3.7 Sonnet|18.9|
 |12|Claude 3 Opus|18.9|
 |13|GPT-4o 2024-11-20|18.7|
 |14|Gemini 2.0 Flash|18.3|
@@ -42,9 +42,10 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |30|Claude 3 Haiku|2.2|
 
 
+
 ### Correlation of puzzle-level results: heatmap
 
-![llm_puzzle_corr](https://github.com/user-attachments/assets/be23201e-0c05-4da0-8907-d0c7b5c54200)
+![llm_puzzle_corr](https://github.com/user-attachments/assets/6abb5638-44dc-4941-87d8-98f399a0086c)
 
 ## Newest 100 puzzles. 
 
@@ -52,7 +53,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 
 ### Chart: Newest 100 puzzles, extended version
 
-![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/18786f77-96d2-4d18-9a34-c52978057819)
+![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/37c6883f-cf96-49a7-91ec-8b520dac39c1)
 
 
 ### Leaderboard: Newest 100 puzzles, extended version
@@ -62,7 +63,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 |1|o1 (medium reasoning)|60.0|
 |2|o3-mini (medium reasoning)|42.8|
 |3|DeepSeek R1|28.7|
-|4|Clade 3.7 Sonnet Thinking 16K|27.0|
+|4|Claude 3.7 Sonnet Thinking 16K|27.0|
 |5|o1-mini|18.8|
 |6|Gemini 2.0 Flash Think Exp 01-21|15.2|
 |7|GPT-4o Feb 2025|14.8|
@@ -71,7 +72,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 |10|Gemini 2.0 Flash|12.8|
 |11|Claude 3 Opus|12.8|
 |12|GPT-4o 2024-11-20|12.5|
-|13|Clade 3.7 Sonnet|12.2|
+|13|Claude 3.7 Sonnet|12.2|
 |14|DeepSeek-V3|12.2|
 |15|Gemini 2.0 Pro Exp 02-05|12.2|
 |16|GPT-4o 2024-08-06|12.0|
