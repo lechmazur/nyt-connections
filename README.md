@@ -1,4 +1,96 @@
-# NYT Connections LLM Benchmark
+# Extended Version
+
+As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Connections benchmark is nearing saturation, with o1 scoring 90.7 and o3, along with other reasoning models, expected this year. The current rules require knowing only three categories, letting the fourth fall into place. To increase difficulty, Extended Connections adds up to four extra trick words to each puzzle. We double-check that none of the added words fit into any category used in the corresponding puzzle.  New puzzles have expanded the total from 436 to 601. Rankings changed little, but the benchmark is now ready for o3. 
+
+### Chart: Extended Version
+
+![nyt_connections_chart](https://github.com/user-attachments/assets/6b6e34a8-b456-4516-bab1-3044e89c3659)
+
+### Leaderboard: Extended Version
+
+|Rank|Model|Score(%)|
+|---:|-----|-------:|
+|1|o1 (medium reasoning)|69.7|
+|2|o3-mini (medium reasoning)|52.5|
+|3|DeepSeek R1|37.6|
+|4|Clade 3.7 Sonnet Thinking 16K|33.5|
+|5|o1-mini|26.4|
+|6|Gemini 2.0 Flash Think Exp 01-21|22.5|
+|7|GPT-4o Feb 2025|22.4|
+|8|Gemini 2.0 Pro Exp 02-05|21.2|
+|9|Grok 2 12-12|19.3|
+|10|Gemini 1.5 Pro (Sept)|19.2|
+|11|Clade 3.7 Sonnet|18.9|
+|12|Claude 3 Opus|18.9|
+|13|GPT-4o 2024-11-20|18.7|
+|14|Gemini 2.0 Flash|18.3|
+|15|GPT-4o 2024-08-06|17.8|
+|16|Claude 3.5 Sonnet 2024-10-22|17.6|
+|17|Qwen 2.5 Max|17.3|
+|18|Llama 3.1 405B|15.6|
+|19|DeepSeek-V3|14.9|
+|20|Llama 3.3 70B|14.7|
+|21|MiniMax-Text-01|14.4|
+|22|Mistral Large 2|12.5|
+|23|Gemma 2 27B|12.0|
+|24|Qwen 2.5 72B|10.9|
+|25|Claude 3.5 Haiku|10.0|
+|26|Amazon Nova Pro|9.9|
+|27|Microsoft Phi-4|9.8|
+|28|GPT-4o mini|9.6|
+|29|Mistral Small 3|8.9|
+|30|Claude 3 Haiku|2.2|
+
+
+### Correlation of puzzle-level results: heatmap
+
+![llm_puzzle_corr](https://github.com/user-attachments/assets/be23201e-0c05-4da0-8907-d0c7b5c54200)
+
+## Newest 100 puzzles. 
+
+To counteract the possibility of an LLM's training data including the solutions, we have also tested only the 100 latest puzzles. Note that lower scores do not necessarily indicate that NYT Connections solutions are in the training data, as the difficulty of the first puzzles was lower.
+
+### Chart: Newest 100 puzzles, extended version
+
+![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/18786f77-96d2-4d18-9a34-c52978057819)
+
+
+### Leaderboard: Newest 100 puzzles, extended version
+
+|Rank|Model|Score(%)|
+|---:|-----|-------:|
+|1|o1 (medium reasoning)|60.0|
+|2|o3-mini (medium reasoning)|42.8|
+|3|DeepSeek R1|28.7|
+|4|Clade 3.7 Sonnet Thinking 16K|27.0|
+|5|o1-mini|18.8|
+|6|Gemini 2.0 Flash Think Exp 01-21|15.2|
+|7|GPT-4o Feb 2025|14.8|
+|8|Qwen 2.5 Max|13.8|
+|9|Llama 3.1 405B|13.2|
+|10|Gemini 2.0 Flash|12.8|
+|11|Claude 3 Opus|12.8|
+|12|GPT-4o 2024-11-20|12.5|
+|13|Clade 3.7 Sonnet|12.2|
+|14|DeepSeek-V3|12.2|
+|15|Gemini 2.0 Pro Exp 02-05|12.2|
+|16|GPT-4o 2024-08-06|12.0|
+|17|MiniMax-Text-01|11.2|
+|18|Claude 3.5 Sonnet 2024-10-22|11.2|
+|19|Gemini 1.5 Pro (Sept)|11.0|
+|20|Grok 2 12-12|11.0|
+|21|Llama 3.3 70B|10.8|
+|22|Gemma 2 27B|8.2|
+|23|Qwen 2.5 72B|8.0|
+|24|Mistral Large 2|7.0|
+|25|Claude 3.5 Haiku|6.5|
+|26|Amazon Nova Pro|6.5|
+|27|Microsoft Phi-4|6.0|
+|28|GPT-4o mini|5.2|
+|29|Mistral Small 3|3.5|
+|30|Claude 3 Haiku|1.2|
+
+# Original NYT Connections LLM Benchmark
 
 This benchmark evaluates large language models (LLMs) using 436 NYT Connections puzzles. Three different prompts, not optimized for LLMs through prompt engineering, are used. Both uppercase and lowercase puzzles are assessed.
 
@@ -40,89 +132,6 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | Mistral Small 3 | 10.5
 | DeepSeek-V2.5 | 9.9
 
-# Extended Version
-
-As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Connections benchmark is nearing saturation, with o1 scoring 90.7 and o3, along with other reasoning models, expected this year. The current rules require knowing only three categories, letting the fourth fall into place. To increase difficulty, Extended Connections adds up to four extra trick words to each puzzle. We double-check that none of the added words fit into any category used in the corresponding puzzle.  New puzzles have expanded the total from 436 to 601. Rankings changed little, but the benchmark is now ready for o3. 
-
-### Chart: Extended Version
-
-![nyt_connections_chart](https://github.com/user-attachments/assets/2211caef-79f8-4207-81f9-7b307c2c0f18)
-
-### Leaderboard: Extended Version
-
-|Rank|Model|Score(%)|
-|---:|-----|-------:|
-|1|o1|69.7|
-|2|o3-mini|52.5|
-|3|DeepSeek R1|37.6|
-|4|o1-mini|26.4|
-|5|Gemini 2.0 Flash Think Exp 01-21|22.5|
-|6|Gemini 2.0 Pro Exp 02-05|21.2|
-|7|Grok 2 12-12|19.3|
-|8|Gemini 1.5 Pro (Sept)|19.2|
-|9|Claude 3 Opus|18.9|
-|10|Gemini 2.0 Flash|18.3|
-|11|GPT-4o|17.8|
-|12|Claude 3.5 Sonnet 2024-10-22|17.6|
-|13|Qwen 2.5 Max|17.3|
-|14|Llama 3.1 405B|15.6|
-|15|DeepSeek-V3|14.9|
-|16|Llama 3.3 70B|14.7|
-|17|MiniMax-Text-01|14.4|
-|18|Mistral Large 2|12.5|
-|19|Gemma 2 27B|12.0|
-|20|Qwen 2.5 72B|10.9|
-|21|Claude 3.5 Haiku|10.0|
-|22|Amazon Nova Pro|9.9|
-|23|Microsoft Phi-4|9.8|
-|24|GPT-4o mini|9.6|
-|25|Mistral Small 3|8.9|
-|26|Claude 3 Haiku|2.2|
-
-
-### Correlation of puzzle-level results: heatmap
-
-![llm_puzzle_corr](https://github.com/user-attachments/assets/03acde73-e676-427b-95aa-55b3529cbe7a)
-
-## Newest 100 puzzles. 
-
-To counteract the possibility of an LLM's training data including the solutions, we have also tested only the 100 latest puzzles. Note that lower scores do not necessarily indicate that NYT Connections solutions are in the training data, as the difficulty of the first puzzles was lower.
-
-### Chart: Newest 100 puzzles, extended version
-
-![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/81efc355-6b44-4bb5-8d17-25e429f839a3)
-
-### Leaderboard: Newest 100 puzzles, extended version
-
-|Rank|Model|Score(%)|
-|---:|-----|-------:|
-|1|o1|60.0|
-|2|o3-mini|42.8|
-|3|DeepSeek R1|28.7|
-|4|o1-mini|18.8|
-|5|Gemini 2.0 Flash Think Exp 01-21|15.2|
-|6|Qwen 2.5 Max|13.8|
-|7|Llama 3.1 405B|13.2|
-|8|Gemini 2.0 Flash|12.8|
-|9|Claude 3 Opus|12.8|
-|10|DeepSeek-V3|12.2|
-|11|Gemini 2.0 Pro Exp 02-05|12.2|
-|12|GPT-4o|12.0|
-|13|MiniMax-Text-01|11.2|
-|14|Claude 3.5 Sonnet 2024-10-22|11.2|
-|15|Gemini 1.5 Pro (Sept)|11.0|
-|16|Grok 2 12-12|11.0|
-|17|Llama 3.3 70B|10.8|
-|18|Gemma 2 27B|8.2|
-|19|Qwen 2.5 72B|8.0|
-|20|Mistral Large 2|7.0|
-|21|Claude 3.5 Haiku|6.5|
-|22|Amazon Nova Pro|6.5|
-|23|Microsoft Phi-4|6.0|
-|24|GPT-4o mini|5.2|
-|25|Mistral Small 3|3.5|
-|26|Claude 3 Haiku|1.2|
-
 
 ## Notes
 - A temperature setting of 0 was used
@@ -132,7 +141,8 @@ To counteract the possibility of an LLM's training data including the solutions,
 - This benchmark is not affiliated with the New York Times
 
 ## Updates and Other Benchmarks
-- Feb 6, 2025: Gemini 2.0 Pro Exp 02-05 added
+- Feb 24, 2025: Claude 3.7 Sonnet Thinking, Clade 3.7 Sonnet, GPT-4o Feb 2025, Qwen 2.5 Max, GPT-4o 2024-11-20 added.
+- Feb 6, 2025: Gemini 2.0 Pro Exp 02-05 added.
 - Feb 4, 2025: A new, more challenging version with extra words in each puzzle. Separate scoring for the 100 newest questions. Correlation heatmap.
 - Jan 31, 2025: o3-mini (72.4) added.
 - Jan 30, 2025: Mistral Small 3 (10.5) added.
