@@ -4,7 +4,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 
 ### Chart: Extended Version
 
-![nyt_connections_chart](https://github.com/user-attachments/assets/a39a1a78-acb1-443b-bd59-67e68a07397f)
+![nyt_connections_chart](https://github.com/user-attachments/assets/3c61ab3e-f898-49a2-bc21-bf130b82dda2)
 
 ### Leaderboard: Extended Version
 
@@ -13,39 +13,40 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |1|o1 (medium reasoning)|69.7|
 |2|o3-mini (medium reasoning)|52.5|
 |3|DeepSeek R1|37.6|
-|4|Claude 3.7 Sonnet Thinking 16K|33.5|
-|5|o1-mini|26.4|
-|6|Gemini 2.0 Flash Think Exp 01-21|22.5|
-|7|GPT-4o Feb 2025|22.4|
-|8|Gemini 2.0 Pro Exp 02-05|21.2|
-|9|Grok 2 12-12|19.3|
-|10|Gemini 1.5 Pro (Sept)|19.2|
-|11|Claude 3.7 Sonnet|18.9|
-|12|Claude 3 Opus|18.9|
-|13|GPT-4o 2024-11-20|18.7|
-|14|Gemini 2.0 Flash|18.3|
-|15|GPT-4o 2024-08-06|17.8|
-|16|Claude 3.5 Sonnet 2024-10-22|17.6|
-|17|Qwen 2.5 Max|17.3|
-|18|Llama 3.1 405B|15.6|
-|19|DeepSeek-V3|14.9|
-|20|Llama 3.3 70B|14.7|
-|21|MiniMax-Text-01|14.4|
-|22|Mistral Large 2|12.5|
-|23|Gemma 2 27B|12.0|
-|24|Qwen 2.5 72B|10.9|
-|25|Claude 3.5 Haiku|10.0|
-|26|Amazon Nova Pro|9.9|
-|27|Microsoft Phi-4|9.8|
-|28|GPT-4o mini|9.6|
-|29|Mistral Small 3|8.9|
-|30|Claude 3 Haiku|2.2|
+|4|GPT-4.5 Preview|33.7|
+|5|Claude 3.7 Sonnet Thinking 16K|33.5|
+|6|o1-mini|26.4|
+|7|Gemini 2.0 Flash Think Exp 01-21|22.5|
+|8|GPT-4o Feb 2025|22.4|
+|9|Gemini 2.0 Pro Exp 02-05|21.2|
+|10|Grok 2 12-12|19.3|
+|11|Gemini 1.5 Pro (Sept)|19.2|
+|12|Claude 3.7 Sonnet|18.9|
+|13|Claude 3 Opus|18.9|
+|14|GPT-4o 2024-11-20|18.7|
+|15|Gemini 2.0 Flash|18.3|
+|16|GPT-4o 2024-08-06|17.8|
+|17|Claude 3.5 Sonnet 2024-10-22|17.6|
+|18|Qwen 2.5 Max|17.3|
+|19|Llama 3.1 405B|15.6|
+|20|DeepSeek-V3|14.9|
+|21|Llama 3.3 70B|14.7|
+|22|MiniMax-Text-01|14.4|
+|23|Mistral Large 2|12.5|
+|24|Gemma 2 27B|12.0|
+|25|Qwen 2.5 72B|10.9|
+|26|Claude 3.5 Haiku|10.0|
+|27|Amazon Nova Pro|9.9|
+|28|Microsoft Phi-4|9.8|
+|29|GPT-4o mini|9.6|
+|30|Mistral Small 3|8.9|
+|31|Claude 3 Haiku|2.2|
 
 
 
 ### Correlation of puzzle-level results: heatmap
 
-![llm_puzzle_corr](https://github.com/user-attachments/assets/6abb5638-44dc-4941-87d8-98f399a0086c)
+![llm_puzzle_corr](https://github.com/user-attachments/assets/771380f7-276e-4bef-8483-295b4457a20c)
 
 ## Newest 100 puzzles. 
 
@@ -53,7 +54,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 
 ### Chart: Newest 100 puzzles, extended version
 
-![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/37c6883f-cf96-49a7-91ec-8b520dac39c1)
+![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/ea228d42-19d0-4bc3-871b-1a6945db2242)
 
 
 ### Leaderboard: Newest 100 puzzles, extended version
@@ -64,32 +65,33 @@ To counteract the possibility of an LLM's training data including the solutions,
 |2|o3-mini (medium reasoning)|42.8|
 |3|DeepSeek R1|28.7|
 |4|Claude 3.7 Sonnet Thinking 16K|27.0|
-|5|o1-mini|18.8|
-|6|Gemini 2.0 Flash Think Exp 01-21|15.2|
-|7|GPT-4o Feb 2025|14.8|
-|8|Qwen 2.5 Max|13.8|
-|9|Llama 3.1 405B|13.2|
-|10|Gemini 2.0 Flash|12.8|
-|11|Claude 3 Opus|12.8|
-|12|GPT-4o 2024-11-20|12.5|
-|13|Claude 3.7 Sonnet|12.2|
-|14|DeepSeek-V3|12.2|
-|15|Gemini 2.0 Pro Exp 02-05|12.2|
-|16|GPT-4o 2024-08-06|12.0|
-|17|MiniMax-Text-01|11.2|
-|18|Claude 3.5 Sonnet 2024-10-22|11.2|
-|19|Gemini 1.5 Pro (Sept)|11.0|
-|20|Grok 2 12-12|11.0|
-|21|Llama 3.3 70B|10.8|
-|22|Gemma 2 27B|8.2|
-|23|Qwen 2.5 72B|8.0|
-|24|Mistral Large 2|7.0|
-|25|Claude 3.5 Haiku|6.5|
-|26|Amazon Nova Pro|6.5|
-|27|Microsoft Phi-4|6.0|
-|28|GPT-4o mini|5.2|
-|29|Mistral Small 3|3.5|
-|30|Claude 3 Haiku|1.2|
+|5|GPT-4.5 Preview|24.2|
+|6|o1-mini|18.8|
+|7|Gemini 2.0 Flash Think Exp 01-21|15.2|
+|8|GPT-4o Feb 2025|14.8|
+|9|Qwen 2.5 Max|13.8|
+|10|Llama 3.1 405B|13.2|
+|11|Gemini 2.0 Flash|12.8|
+|12|Claude 3 Opus|12.8|
+|13|GPT-4o 2024-11-20|12.5|
+|14|Claude 3.7 Sonnet|12.2|
+|15|DeepSeek-V3|12.2|
+|16|Gemini 2.0 Pro Exp 02-05|12.2|
+|17|GPT-4o 2024-08-06|12.0|
+|18|MiniMax-Text-01|11.2|
+|19|Claude 3.5 Sonnet 2024-10-22|11.2|
+|20|Gemini 1.5 Pro (Sept)|11.0|
+|21|Grok 2 12-12|11.0|
+|22|Llama 3.3 70B|10.8|
+|23|Gemma 2 27B|8.2|
+|24|Qwen 2.5 72B|8.0|
+|25|Mistral Large 2|7.0|
+|26|Claude 3.5 Haiku|6.5|
+|27|Amazon Nova Pro|6.5|
+|28|Microsoft Phi-4|6.0|
+|29|GPT-4o mini|5.2|
+|30|Mistral Small 3|3.5|
+|31|Claude 3 Haiku|1.2|
 
 # Original NYT Connections LLM Benchmark
 
@@ -142,6 +144,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - This benchmark is not affiliated with the New York Times
 
 ## Updates and Other Benchmarks
+- Feb 27, 2025: GPT-4.5 Preview added.
 - Feb 24, 2025: Claude 3.7 Sonnet Thinking, Clade 3.7 Sonnet, GPT-4o Feb 2025, Qwen 2.5 Max, GPT-4o 2024-11-20 added.
 - Feb 6, 2025: Gemini 2.0 Pro Exp 02-05 added.
 - Feb 4, 2025: A new, more challenging version with extra words in each puzzle. Separate scoring for the 100 newest questions. Correlation heatmap.
