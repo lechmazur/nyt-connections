@@ -33,21 +33,24 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |21|DeepSeek-V3|14.9|
 |22|Llama 3.3 70B|14.7|
 |23|MiniMax-Text-01|14.4|
-|24|Mistral Large 2|12.5|
-|25|Gemma 2 27B|12.0|
-|26|Gemma 3 27B|11.6|
-|27|Qwen 2.5 72B|10.9|
-|28|Claude 3.5 Haiku|10.0|
-|29|Amazon Nova Pro|9.9|
-|30|Microsoft Phi-4|9.8|
-|31|GPT-4o mini|9.6|
-|32|Mistral Small 3|8.9|
-|33|Claude 3 Haiku|2.2|
+|24|Cohere Command A|13.2|
+|25|Mistral Large 2|12.5|
+|26|Gemma 2 27B|12.0|
+|27|Gemma 3 27B|11.6|
+|28|Mistral Small 3.1|11.2|
+|29|Qwen 2.5 72B|10.9|
+|30|Claude 3.5 Haiku|10.0|
+|31|Amazon Nova Pro|9.9|
+|32|Microsoft Phi-4|9.8|
+|33|GPT-4o mini|9.6|
+|34|Mistral Small 3|8.9|
+|35|Claude 3 Haiku|2.2|
 
 
 ### Correlation of puzzle-level results: heatmap
 
-![llm_puzzle_corr](https://github.com/user-attachments/assets/add84ade-f612-4988-929d-0514dc97df50)
+![llm_puzzle_corr](https://github.com/user-attachments/assets/dfd673ec-eb3b-42b9-9249-5724e9a52acd)
+
 
 ## Newest 100 puzzles. 
 
@@ -55,7 +58,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 
 ### Chart: Newest 100 puzzles, extended version
 
-![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/7dd83cc8-987f-4aaf-8461-c43662111e7d)
+![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/1274547d-3cb0-4ea9-a484-4a1d91371293)
 
 
 ### Leaderboard: Newest 100 puzzles, extended version
@@ -85,16 +88,18 @@ To counteract the possibility of an LLM's training data including the solutions,
 |21|Gemini 1.5 Pro (Sept)|11.0|
 |22|Grok 2 12-12|11.0|
 |23|Llama 3.3 70B|10.8|
-|24|Gemma 2 27B|8.2|
-|25|Qwen 2.5 72B|8.0|
-|26|Gemma 3 27B|7.2|
-|27|Mistral Large 2|7.0|
-|28|Claude 3.5 Haiku|6.5|
-|29|Amazon Nova Pro|6.5|
-|30|Microsoft Phi-4|6.0|
-|31|GPT-4o mini|5.2|
-|32|Mistral Small 3|3.5|
-|33|Claude 3 Haiku|1.2|
+|24|Cohere Command A|8.8|
+|25|Gemma 2 27B|8.2|
+|26|Qwen 2.5 72B|8.0|
+|27|Gemma 3 27B|7.2|
+|28|Mistral Large 2|7.0|
+|29|Mistral Small 3.1|7.0|
+|30|Claude 3.5 Haiku|6.5|
+|31|Amazon Nova Pro|6.5|
+|32|Microsoft Phi-4|6.0|
+|33|GPT-4o mini|5.2|
+|34|Mistral Small 3|3.5|
+|35|Claude 3 Haiku|1.2|
 
 # Original NYT Connections LLM Benchmark
 
@@ -147,6 +152,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - This benchmark is not affiliated with the New York Times
 
 ## Updates and Other Benchmarks
+- Mar 17, 2025: Cohere Command A and Mistral Small 3.1 added.
 - Mar 12, 2025: Gemma 3 27B added.
 - Mar 7, 2025: Qwen QwQ added.
 - Feb 27, 2025: GPT-4.5 Preview added.
