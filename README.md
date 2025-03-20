@@ -168,7 +168,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 
 ---
 
-## Updates and Other Benchmarks
+## Updates
 - Mar 17, 2025: Cohere Command A and Mistral Small 3.1 added.
 - Mar 12, 2025: Gemma 3 27B added.
 - Mar 7, 2025: Qwen QwQ added.
