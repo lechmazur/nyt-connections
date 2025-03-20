@@ -143,6 +143,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 | Mistral Small 3 | 10.5
 | DeepSeek-V2.5 | 9.9
 
+---
 
 ## Notes
 - A temperature setting of 0 was used
@@ -150,6 +151,22 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - Only one attempt is allowed per puzzle. Humans solving puzzles on the NYT website get four attempts and a notification when they're one step away from the solution.
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
 - This benchmark is not affiliated with the New York Times
+
+---
+
+## Other multi-agent benchmarks
+- [Public Goods Game (PGG) Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
+- [Elimination Game: Social Reasoning and Deception in Multi-Agent LLMs](https://github.com/lechmazur/elimination_game/)
+- [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/)
+
+## Other benchmarks
+- [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/)
+- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing/)
+- [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
+- [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/)
+- [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
+
+---
 
 ## Updates and Other Benchmarks
 - Mar 17, 2025: Cohere Command A and Mistral Small 3.1 added.
@@ -169,6 +186,5 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 - Claude 3.5 Haiku added. 13.7.
 - Claude 3.5 Sonnet (2024-10-22) added. Improves from 25.9 from 24.4.
 - Grok Beta added. Improves from 21.3 to 23.7. It's described as "experimental language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases. It is the successor of Grok 2 with enhanced context length."
-- Also check out the [Multi-Agent Elimination Game LLM Benchmark](https://github.com/lechmazur/elimination_game/), [LLM Public Goods Game](https://github.com/lechmazur/goods), [LLM Step Game](https://github.com/lechmazur/step_game), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Confabulations Benchmark](https://github.com/lechmazur/confabulations/),  [LLM Deceptiveness and Gullibility Benchmark](https://github.com/lechmazur/deception), and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
 
