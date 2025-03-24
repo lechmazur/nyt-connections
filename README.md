@@ -49,16 +49,17 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |36|Mistral Small 3|8.9|
 |37|Claude 3 Haiku|2.2|
 
-
+---
 ### Correlation of puzzle-level results: heatmap
 
 ![llm_puzzle_corr](https://github.com/user-attachments/assets/1b526822-ae92-405d-9f7f-6792172e1e55)
 
-
+---
 ## Newest 100 puzzles. 
 
 To counteract the possibility of an LLM's training data including the solutions, we have also tested only the 100 latest puzzles. Note that lower scores do not necessarily indicate that NYT Connections solutions are in the training data, as the difficulty of the first puzzles was lower.
 
+---
 ### Chart: Newest 100 puzzles, extended version
 
 ![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/4529c50b-97fd-4052-81aa-b538835016c1)
@@ -105,6 +106,23 @@ To counteract the possibility of an LLM's training data including the solutions,
 |35|GPT-4o mini|5.2|
 |36|Mistral Small 3|3.5|
 |37|Claude 3 Haiku|1.2|
+
+---
+# Humans vs. LLMs
+
+To explore how top language models (LLMs) compare to humans in the New York Times Connections puzzle, we used official NYT performance data from December 2024 to February 2025, as analyzed by u/Bryschien1996, alongside a simulated gameplay setup that mirrors the human experience. This setup involves a multi-step process where solvers iteratively propose groups, receive feedback ("correct," "one away," "incorrect"), and are allowed up to four mistakes before failing. According to NYT data, the average human player solved approximately 71% of puzzles over the three-month period from December 2024 to February 2025, with solve rates ranging from 39% on the toughest days (e.g., February 2, 2025) to 98% on the easiest (e.g., February 26, 2025). It's worth noting that NYT Connections players are self-selected and likely perform better than the general population. We collected data from nine LLMs spanning a range of scores in the Extended Connections benchmark.
+
+![nyt_connections_chart_basic](https://github.com/user-attachments/assets/48058e72-4403-419f-aece-9c7aa3580660)
+
+The results reveal that top reasoning LLMs from OpenAI consistently outperform the average human player. DeepSeek R1 performs closest to the level of an average NYT Connections player.
+
+Elite human players, however, set a higher standard, achieving a 100% win rate during the same period:
+
+<img width="1150" alt="ex" src="https://github.com/user-attachments/assets/27307501-7ff6-4965-8f87-659c84d2fe3f" />
+
+o1, with a 98.9% win rate, comes close to this elite level. o1-pro, which has not yet been tested in this gameplay simulation setup, might be able to match these top humans. Thus, directly determining whether AI achieves superhuman performance on NYT Connections could hinge on comparing the number of mistakes made before fully solving each puzzle.
+
+---
 
 # Original NYT Connections LLM Benchmark
 
