@@ -192,6 +192,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
+- Mar 23, 2025: Humans vs. LLMs section added.
 - Mar 21, 2025: o1-pro added. o3-mini-high added.
 - Mar 17, 2025: Cohere Command A and Mistral Small 3.1 added.
 - Mar 12, 2025: Gemma 3 27B added.
