@@ -195,6 +195,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
+- Mar 25, 2025: 50 new questions added. Gemini 2.5 Pro Exp 03-24 and DeepSeek V3-0324 added.
 - Mar 23, 2025: Humans vs. LLMs section added.
 - Mar 21, 2025: o1-pro added. o3-mini-high added.
 - Mar 17, 2025: Cohere Command A and Mistral Small 3.1 added.
