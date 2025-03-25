@@ -4,7 +4,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 
 ### Chart: Extended Version
 
-![nyt_connections_chart](https://github.com/user-attachments/assets/3c1cde42-729a-4c6c-b5d6-6e28e58b804d)
+![nyt_connections_chart](https://github.com/user-attachments/assets/3b626f23-5d44-43af-ad70-55a1935be0e4)
 
 ### Leaderboard: Extended Version
 
@@ -13,7 +13,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |1|o1-pro (medium reasoning)|82.3|
 |2|o1 (medium reasoning)|70.8|
 |3|o3-mini-high|61.4|
-|4|Gemini 2.5 Pro Exp 03-24|54.1|
+|4|Gemini 2.5 Pro Exp 03-25|54.1|
 |5|o3-mini (medium reasoning)|53.6|
 |6|DeepSeek R1|38.6|
 |7|GPT-4.5 Preview|34.2|
@@ -63,7 +63,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 ---
 ### Chart: Newest 100 puzzles, extended version
 
-![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/c94611a3-4e8f-48ac-8baf-896f37758408)
+![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/6663a3e1-ee17-421d-bf7e-af89fa0224b8)
 
 
 ### Leaderboard: Newest 100 puzzles, extended version
@@ -74,7 +74,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 |2|o1 (medium reasoning)|70.2|
 |3|o3-mini-high|60.2|
 |4|o3-mini (medium reasoning)|53.2|
-|5|Gemini 2.5 Pro Exp 03-24|49.8|
+|5|Gemini 2.5 Pro Exp 03-25|49.8|
 |6|DeepSeek R1|37.8|
 |7|Qwen QwQ-32B 16K|34.8|
 |8|GPT-4.5 Preview|33.2|
@@ -195,7 +195,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
-- Mar 25, 2025: 50 new questions added. Gemini 2.5 Pro Exp 03-24 and DeepSeek V3-0324 added.
+- Mar 25, 2025: 50 new questions added. Gemini 2.5 Pro Exp 03-25 and DeepSeek V3-0324 added.
 - Mar 23, 2025: Humans vs. LLMs section added.
 - Mar 21, 2025: o1-pro added. o3-mini-high added.
 - Mar 17, 2025: Cohere Command A and Mistral Small 3.1 added.
