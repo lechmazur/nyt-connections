@@ -4,7 +4,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 
 ### Chart: Extended Version
 
-![Leaderboard][images/nyt_connections_chart.png]
+![Leaderboard](images/nyt_connections_chart.png)
 
 ### Leaderboard: Extended Version
 
