@@ -57,7 +57,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |45|Amazon Nova Pro|10.1|
 |46|GPT-4o mini|9.9|
 |47|Mistral Small 3|8.9|
-|48|gpt-4.1 nano|8.6|
+|48|GPT-4.1 nano|8.6|
 |49|Claude 3 Haiku|2.2|
 
 
@@ -127,7 +127,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 |44|GPT-4o mini|10.5|
 |45|Claude 3.5 Haiku|10.5|
 |46|Amazon Nova Pro|10.0|
-|47|gpt-4.1 nano|8.2|
+|47|GPT-4.1 nano|8.2|
 |48|Mistral Small 3|5.0|
 |49|Claude 3 Haiku|1.5|
 
