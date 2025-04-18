@@ -69,7 +69,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 ---
 ### Correlation of puzzle-level results: heatmap
 
-![llm_puzzle_corr](https://github.com/user-attachments/assets/6d8400c7-11aa-492c-b63c-9f3a80c5a987)
+![Correlations](images/llm_puzzle_corr.png)
 
 ---
 ## Newest 100 puzzles. 
@@ -79,7 +79,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 ---
 ### Chart: Newest 100 puzzles, extended version
 
-![nyt_connections_chart_latest100](https://github.com/user-attachments/assets/ff0555d6-f0f9-4f37-a5c6-08767181a762)
+![Newest 100 puzzles](images/nyt_connections_chart_latest100.png)
 
 
 ### Leaderboard: Newest 100 puzzles, extended version
