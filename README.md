@@ -57,18 +57,19 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |43|GPT-4.1 mini|15.1|
 |44|MiniMax-Text-01|14.6|
 |45|Cohere Command A|13.6|
-|46|Mistral Large 2|12.6|
-|47|Gemma 2 27B|12.2|
-|48|Gemma 3 27B|11.8|
-|49|Mistral Small 3.1|11.4|
-|50|Qwen 2.5 72B|11.1|
-|51|Claude 3.5 Haiku|10.3|
-|52|Microsoft Phi-4|10.2|
-|53|Amazon Nova Pro|10.1|
-|54|GPT-4o mini|9.9|
-|55|Mistral Small 3|8.9|
-|56|GPT-4.1 nano|8.6|
-|57|Claude 3 Haiku|2.2|
+|46|Mistral Medium 3|12.9|
+|47|Mistral Large 2|12.6|
+|48|Gemma 2 27B|12.2|
+|49|Gemma 3 27B|11.8|
+|50|Mistral Small 3.1|11.4|
+|51|Qwen 2.5 72B|11.1|
+|52|Claude 3.5 Haiku|10.3|
+|53|Microsoft Phi-4|10.2|
+|54|Amazon Nova Pro|10.1|
+|55|GPT-4o mini|9.9|
+|56|Mistral Small 3|8.9|
+|57|GPT-4.1 nano|8.6|
+|58|Claude 3 Haiku|2.2|
 
 
 ---
@@ -137,17 +138,18 @@ To counteract the possibility of an LLM's training data including the solutions,
 |44|GPT-4o 2024-08-06|12.0|
 |45|GPT-4o 2024-11-20|12.0|
 |46|Gemma 3 27B|11.8|
-|47|Qwen 2.5 72B|11.2|
-|48|Gemma 2 27B|10.8|
-|49|Mistral Large 2|10.8|
-|50|Mistral Small 3.1|10.8|
-|51|Microsoft Phi-4|10.8|
-|52|GPT-4o mini|10.5|
-|53|Claude 3.5 Haiku|10.5|
-|54|Amazon Nova Pro|10.0|
-|55|GPT-4.1 nano|8.2|
-|56|Mistral Small 3|5.0|
-|57|Claude 3 Haiku|1.5|
+|47|Mistral Medium 3|11.5|
+|48|Qwen 2.5 72B|11.2|
+|49|Gemma 2 27B|10.8|
+|50|Mistral Large 2|10.8|
+|51|Mistral Small 3.1|10.8|
+|52|Microsoft Phi-4|10.8|
+|53|GPT-4o mini|10.5|
+|54|Claude 3.5 Haiku|10.5|
+|55|Amazon Nova Pro|10.0|
+|56|GPT-4.1 nano|8.2|
+|57|Mistral Small 3|5.0|
+|58|Claude 3 Haiku|1.5|
 
 
 
@@ -237,7 +239,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
-- May 7, 2025: Gemini 2.5 Pro Preview 05-06 added.
+- May 7, 2025: Gemini 2.5 Pro Preview 05-06 added. Mistral Medium 3 added.
 - Apr 30, 2025: Qwen 3 added.
 - Apr 18, 2025: o3, o4-mini, Gemini 2.5 Flash Preview added.
 - Apr 15, 2025: GPT-4.1 added.
