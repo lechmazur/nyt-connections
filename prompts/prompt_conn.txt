@@ -1,0 +1,5 @@
+This is a puzzle. From the words listed below, create four distinct groups of four words each, where each group shares a single unifying concept or has some common thread. That concept/category could be literal (same category) or playful (palindromes, homophones, letter shifts, etc.). Then output them in exactly four lines. Note that there can be more than 16 words to choose from but you must use exactly 16 words total (forming four categories with four words in each).
+Each line should have four comma-separated words. No group names, no explanations, no filler text. Just the four lines of words, nothing before or after.
+Words:
+
+{{words}}
