@@ -250,6 +250,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
+- May 22, 2025: Claude 4 models added.
 - May 7, 2025: Gemini 2.5 Pro Preview 05-06 added. Mistral Medium 3 added.
 - Apr 30, 2025: Qwen 3 added.
 - Apr 18, 2025: o3, o4-mini, Gemini 2.5 Flash Preview added.
