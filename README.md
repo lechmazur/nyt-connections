@@ -22,7 +22,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |8|Qwen 3 235B A22B|55.7|
 |9|Gemini 2.5 Pro Exp 03-25|54.1|
 |10|o3-mini (medium reasoning)|53.6|
-|11|Claude Opuis 4 Thinking 16K|52.7|
+|11|Claude Opus 4 Thinking 16K|52.7|
 |12|Gemini 2.5 Pro Preview 05-06|42.5|
 |13|Claude Sonnet 4 Thinking 16K|41.4|
 |14|Claude Sonnet 4 Thinking 64K|39.6|
@@ -107,7 +107,7 @@ To counteract the possibility of an LLM's training data including the solutions,
 |7|o3-mini (high reasoning)|60.2|
 |8|Qwen 3 235B A22B|55.2|
 |9|o3-mini (medium reasoning)|53.2|
-|10|Claude Opuis 4 Thinking 16K|50.2|
+|10|Claude Opus 4 Thinking 16K|50.2|
 |11|Gemini 2.5 Pro Exp 03-25|49.8|
 |12|Claude Sonnet 4 Thinking 16K|41.2|
 |13|Claude Sonnet 4 Thinking 64K|39.0|
