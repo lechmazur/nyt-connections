@@ -12,71 +12,72 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 
 |Rank|Model|Score %|#Puzzles|
 |---:|-----|------:|-------:|
-|1|o1-pro (medium reasoning)|82.5|651|
-|2|o3 (high reasoning)|79.5|651|
-|3|o4-mini (high reasoning)|74.7|651|
-|4|o3 (medium reasoning)|74.0|651|
-|5|o1 (medium reasoning)|70.8|651|
-|6|o4-mini (medium reasoning)|68.8|651|
-|7|o3-mini (high reasoning)|61.4|651|
-|8|Gemini 2.5 Pro Preview 06-05|58.7|651|
-|9|Qwen 3 235B A22B|55.6|651|
-|10|Gemini 2.5 Pro Exp 03-25|54.1|651|
-|11|o3-mini (medium reasoning)|53.6|651|
-|12|Claude Opus 4 Thinking 16K|52.7|651|
-|13|DeepSeek R1 05/28|49.8|651|
-|14|Gemini 2.5 Pro Preview 05-06|42.5|651|
-|15|Claude Sonnet 4 Thinking 16K|41.4|651|
-|16|Claude Sonnet 4 Thinking 64K|39.6|651|
-|17|DeepSeek R1|38.6|651|
-|18|Qwen 3 30B A3B|38.0|651|
-|19|Claude Opus 4 (no reasoning)|34.8|651|
-|20|GPT-4.5 Preview|34.2|651|
-|21|Claude 3.7 Sonnet Thinking 16K|33.6|651|
-|22|Qwen QwQ-32B 16K|31.4|651|
-|23|Grok 3 Mini Beta (high)|30.9|651|
-|24|o1-mini|26.9|651|
-|25|Grok 3 Mini Beta (low)|26.0|651|
-|26|Gemini 2.5 Flash Preview (24k)|25.8|651|
-|27|Claude Sonnet 4 (no reasoning)|25.7|651|
-|28|Quasar Alpha|25.4|651|
-|29|GPT-4o Mar 2025|25.2|651|
-|30|GPT-4.1|23.6|651|
-|31|Gemini 2.0 Flash Think Exp 01-21|23.1|649|
-|32|GPT-4o Feb 2025|22.7|651|
-|33|Gemini 2.0 Pro Exp 02-05|21.7|651|
-|34|Grok 3 Beta (no reasoning)|20.3|651|
-|35|Grok 2 12-12|19.2|651|
-|36|Gemini 1.5 Pro (Sept)|19.2|601|
-|37|Claude 3.7 Sonnet|19.2|651|
-|38|Claude 3 Opus|19.2|651|
-|39|Llama 4 Maverick|19.1|651|
-|40|Gemini 2.0 Flash|18.8|651|
-|41|GPT-4o 2024-11-20|18.7|601|
-|42|Qwen 2.5 Max|18.0|651|
-|43|Llama 4 Scout|17.9|651|
-|44|GPT-4o 2024-08-06|17.8|601|
-|45|Claude 3.5 Sonnet 2024-10-22|17.7|651|
-|46|DeepSeek V3-0324|17.4|651|
-|47|Llama 3.1 405B|16.2|651|
-|48|DeepSeek V3|15.1|651|
-|49|Llama 3.3 70B|15.1|651|
-|50|GPT-4.1 mini|15.1|651|
-|51|MiniMax-Text-01|14.6|651|
-|52|Cohere Command A|13.6|651|
-|53|Mistral Large 2|12.6|651|
-|54|Gemma 2 27B|12.2|651|
-|55|Gemma 3 27B|11.8|651|
-|56|Mistral Medium 3|11.4|651|
-|57|Mistral Small 3.1|11.4|651|
-|58|Qwen 2.5 72B|11.1|651|
-|59|Claude 3.5 Haiku|10.3|651|
-|60|Microsoft Phi-4|10.2|651|
-|61|Amazon Nova Pro|10.1|651|
-|62|GPT-4o mini|9.9|651|
-|63|Mistral Small 3|8.9|601|
-|64|GPT-4.1 nano|8.6|651|
-|65|Claude 3 Haiku|2.2|601|
+|1|o3-pro (medium reasoning)|87.3|651|
+|2|o1-pro (medium reasoning)|82.5|651|
+|3|o3 (high reasoning)|79.5|651|
+|4|o4-mini (high reasoning)|74.7|651|
+|5|o3 (medium reasoning)|74.0|651|
+|6|o1 (medium reasoning)|70.8|651|
+|7|o4-mini (medium reasoning)|68.8|651|
+|8|o3-mini (high reasoning)|61.4|651|
+|9|Gemini 2.5 Pro Preview 06-05|58.7|651|
+|10|Qwen 3 235B A22B|55.6|651|
+|11|Gemini 2.5 Pro Exp 03-25|54.1|651|
+|12|o3-mini (medium reasoning)|53.6|651|
+|13|Claude Opus 4 Thinking 16K|52.7|651|
+|14|DeepSeek R1 05/28|49.8|651|
+|15|Gemini 2.5 Pro Preview 05-06|42.5|651|
+|16|Claude Sonnet 4 Thinking 16K|41.4|651|
+|17|Claude Sonnet 4 Thinking 64K|39.6|651|
+|18|DeepSeek R1|38.6|651|
+|19|Qwen 3 30B A3B|38.0|651|
+|20|Claude Opus 4 (no reasoning)|34.8|651|
+|21|GPT-4.5 Preview|34.2|651|
+|22|Claude 3.7 Sonnet Thinking 16K|33.6|651|
+|23|Qwen QwQ-32B 16K|31.4|651|
+|24|Grok 3 Mini Beta (high)|30.9|651|
+|25|o1-mini|26.9|651|
+|26|Grok 3 Mini Beta (low)|26.0|651|
+|27|Gemini 2.5 Flash Preview (24k)|25.8|651|
+|28|Claude Sonnet 4 (no reasoning)|25.7|651|
+|29|Quasar Alpha|25.4|651|
+|30|GPT-4o Mar 2025|25.2|651|
+|31|GPT-4.1|23.6|651|
+|32|Gemini 2.0 Flash Think Exp 01-21|23.1|649|
+|33|GPT-4o Feb 2025|22.7|651|
+|34|Gemini 2.0 Pro Exp 02-05|21.7|651|
+|35|Grok 3 Beta (no reasoning)|20.3|651|
+|36|Grok 2 12-12|19.2|651|
+|37|Gemini 1.5 Pro (Sept)|19.2|601|
+|38|Claude 3.7 Sonnet|19.2|651|
+|39|Claude 3 Opus|19.2|651|
+|40|Llama 4 Maverick|19.1|651|
+|41|Gemini 2.0 Flash|18.8|651|
+|42|GPT-4o 2024-11-20|18.7|601|
+|43|Qwen 2.5 Max|18.0|651|
+|44|Llama 4 Scout|17.9|651|
+|45|GPT-4o 2024-08-06|17.8|601|
+|46|Claude 3.5 Sonnet 2024-10-22|17.7|651|
+|47|DeepSeek V3-0324|17.4|651|
+|48|Llama 3.1 405B|16.2|651|
+|49|DeepSeek V3|15.1|651|
+|50|Llama 3.3 70B|15.1|651|
+|51|GPT-4.1 mini|15.1|651|
+|52|MiniMax-Text-01|14.6|651|
+|53|Cohere Command A|13.6|651|
+|54|Mistral Large 2|12.6|651|
+|55|Gemma 2 27B|12.2|651|
+|56|Gemma 3 27B|11.8|651|
+|57|Mistral Medium 3|11.4|651|
+|58|Mistral Small 3.1|11.4|651|
+|59|Qwen 2.5 72B|11.1|651|
+|60|Claude 3.5 Haiku|10.3|651|
+|61|Microsoft Phi-4|10.2|651|
+|62|Amazon Nova Pro|10.1|651|
+|63|GPT-4o mini|9.9|651|
+|64|Mistral Small 3|8.9|601|
+|65|GPT-4.1 nano|8.6|651|
+|66|Claude 3 Haiku|2.2|601|
 
 
 
@@ -181,6 +182,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
+- June 10, 2025: o3-pro added.
 - June 5, 2025: Gemini 2.5 Pro Preview 06-05 added. 
 - May 28, 2025: DeepSeek R1 05/28 added.
 - May 22, 2025: Claude 4 models added.
