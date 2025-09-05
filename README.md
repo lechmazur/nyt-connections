@@ -57,49 +57,51 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |43|Cohere Command A Reasoning 16K|25.3|759|
 |44|Gemini 2.5 Flash|25.2|759|
 |45|GPT-4o Mar 2025|24.5|759|
-|46|Gemini 2.0 Flash Think Exp 01-21|23.1|649|
-|47|GPT-4.1|22.8|759|
-|48|GPT-4o Feb 2025|22.7|651|
-|49|Gemini 2.0 Pro Exp 02-05|21.7|651|
-|50|DeepSeek V3.1 Non-Think|21.6|759|
-|51|MiniMax-M1|21.3|688|
-|52|Kimi K2|19.8|759|
-|53|Grok 3 Beta (no reasoning)|19.7|759|
-|54|Grok 2 12-12|19.2|651|
-|55|Gemini 1.5 Pro (Sept)|19.2|601|
-|56|Claude 3 Opus|19.2|650|
-|57|Claude 3.7 Sonnet|19.2|651|
-|58|Gemini 2.0 Flash|18.8|651|
-|59|GPT-4o 2024-11-20|18.7|601|
-|60|Llama 4 Maverick|18.5|759|
-|61|Qwen 2.5 Max|18.0|651|
-|62|GPT-4o 2024-08-06|17.8|601|
-|63|Claude 3.5 Sonnet 2024-10-22|17.7|651|
-|64|Llama 4 Scout|17.4|759|
-|65|DeepSeek V3-0324|16.8|759|
-|66|Llama 3.1 405B|16.2|651|
-|67|Mistral Medium 3.1|15.2|759|
-|68|DeepSeek V3|15.1|651|
-|69|Llama 3.3 70B|15.1|651|
-|70|Baidu Ernie 4.5 300B A47B|14.8|759|
-|71|GPT-4.1 mini|14.4|759|
-|72|MiniMax-Text-01|13.8|759|
-|73|Cohere Command A|13.1|759|
-|74|Mistral Large 2|12.4|759|
-|75|Gemma 2 27B|12.2|651|
-|76|Gemma 3 27B|11.6|759|
-|77|Mistral Medium 3|11.5|759|
-|78|Mistral Small 3.1|11.4|651|
-|79|Mistral Small 3.2|11.2|759|
-|80|Qwen 2.5 72B|10.5|759|
-|81|Claude 3.5 Haiku|10.0|759|
-|82|Amazon Nova Pro|9.9|759|
-|83|Microsoft Phi-4|9.9|759|
-|84|GPT-4o mini|9.7|759|
-|85|Mistral Small 3|8.9|601|
-|86|GPT-4.1 nano|8.1|759|
-|87|GLM4-32B-0414|7.6|759|
-|88|Claude 3 Haiku|2.2|601|
+|46|Qwen 3 Max Preview|23.9|759|
+|47|Gemini 2.0 Flash Think Exp 01-21|23.1|649|
+|48|GPT-4.1|22.8|759|
+|49|GPT-4o Feb 2025|22.7|651|
+|50|Gemini 2.0 Pro Exp 02-05|21.7|651|
+|51|DeepSeek V3.1 Non-Think|21.6|759|
+|52|MiniMax-M1|21.3|688|
+|53|Kimi K2|19.8|759|
+|54|Grok 3 Beta (no reasoning)|19.7|759|
+|55|Grok 2 12-12|19.2|651|
+|56|Gemini 1.5 Pro (Sept)|19.2|601|
+|57|Claude 3 Opus|19.2|650|
+|58|Claude 3.7 Sonnet|19.2|651|
+|59|Gemini 2.0 Flash|18.8|651|
+|60|GPT-4o 2024-11-20|18.7|601|
+|61|Llama 4 Maverick|18.5|759|
+|62|Qwen 2.5 Max|18.0|651|
+|63|GPT-4o 2024-08-06|17.8|601|
+|64|Claude 3.5 Sonnet 2024-10-22|17.7|651|
+|65|Llama 4 Scout|17.4|759|
+|66|DeepSeek V3-0324|16.8|759|
+|67|Llama 3.1 405B|16.2|651|
+|68|Mistral Medium 3.1|15.2|759|
+|69|DeepSeek V3|15.1|651|
+|70|Llama 3.3 70B|15.1|651|
+|71|Baidu Ernie 4.5 300B A47B|14.8|759|
+|72|GPT-4.1 mini|14.4|759|
+|73|MiniMax-Text-01|13.8|759|
+|74|Cohere Command A|13.1|759|
+|75|Mistral Large 2|12.4|759|
+|76|Gemma 2 27B|12.2|651|
+|77|Gemma 3 27B|11.6|759|
+|78|Mistral Medium 3|11.5|759|
+|79|Mistral Small 3.1|11.4|651|
+|80|Mistral Small 3.2|11.2|759|
+|81|Qwen 2.5 72B|10.5|759|
+|82|Claude 3.5 Haiku|10.0|759|
+|83|Amazon Nova Pro|9.9|759|
+|84|Microsoft Phi-4|9.9|759|
+|85|GPT-4o mini|9.7|759|
+|86|Mistral Small 3|8.9|601|
+|87|GPT-4.1 nano|8.1|759|
+|88|GLM4-32B-0414|7.6|759|
+|89|Claude 3 Haiku|2.2|601|
+
 
 
 ---
@@ -198,6 +200,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ## Other benchmarks
 - [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/)
 - [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing/)
+- [Mapping LLM Style and Range in Flash Fiction](https://github.com/lechmazur/writing_styles)
 - [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
 - [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/)
 - [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
@@ -205,6 +208,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
+- Sep 5, 2025: Qwen 3 Max Preview added.
 - Aug 23, 2025: GPT-5 high reasoning and Cohere Command A Reasoning (16K) added.
 - Aug 22, 2025: DeepSeek 3.1, Qwen 3 30B A3B 25-07, Mistral Medium 3.1, GPT-5 minimal and low reasoning added.
 - Aug 7, 2025: GPT-5 added.
