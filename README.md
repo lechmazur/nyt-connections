@@ -77,45 +77,47 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |63|DeepSeek V3.1 Non-Think|21.6|759|
 |64|MiniMax-M1|21.3|688|
 |65|Deepseek V3.2 Exp (no reasoning)|20.7|759|
-|66|Kimi K2|19.8|759|
-|67|Qwen 3 235B A22B 25-07 Instruct|19.8|759|
-|68|Grok 3 Beta (no reasoning)|19.7|759|
-|69|Grok 2 12-12|19.2|651|
-|70|Gemini 1.5 Pro (Sept)|19.2|601|
-|71|Claude 3 Opus|19.2|650|
-|72|Claude 3.7 Sonnet|19.2|651|
-|73|Gemini 2.0 Flash|18.8|651|
-|74|GPT-4o 2024-11-20|18.7|601|
-|75|Llama 4 Maverick|18.5|759|
-|76|Qwen 2.5 Max|18.0|651|
-|77|GPT-4o 2024-08-06|17.8|601|
-|78|Claude 3.5 Sonnet 2024-10-22|17.7|651|
-|79|Llama 4 Scout|17.4|759|
-|80|DeepSeek V3-0324|16.8|759|
-|81|Llama 3.1 405B|16.2|651|
-|82|Mistral Medium 3.1|15.2|759|
-|83|DeepSeek V3|15.1|651|
-|84|Llama 3.3 70B|15.1|651|
-|85|Baidu Ernie 4.5 300B A47B|14.8|759|
-|86|GPT-4.1 mini|14.4|759|
-|87|MiniMax-Text-01|13.8|759|
-|88|Cohere Command A|13.1|759|
-|89|Mistral Large 2|12.4|759|
-|90|Gemma 2 27B|12.2|651|
-|91|LongCat Flash|12.1|759|
-|92|Gemma 3 27B|11.6|759|
-|93|Mistral Medium 3|11.5|759|
-|94|Mistral Small 3.1|11.4|651|
-|95|Mistral Small 3.2|11.2|759|
-|96|Qwen 2.5 72B|10.5|759|
-|97|Claude 3.5 Haiku|10.0|759|
-|98|Amazon Nova Pro|9.9|759|
-|99|Microsoft Phi-4|9.9|759|
-|100|GPT-4o mini|9.7|759|
-|101|Mistral Small 3|8.9|601|
-|102|GPT-4.1 nano|8.1|759|
-|103|GLM4-32B-0414|7.6|759|
-|104|Claude 3 Haiku|2.2|601|
+|66|Claude 4.5 Haiku|20.0|759|
+|67|Kimi K2|19.8|759|
+|68|Qwen 3 235B A22B 25-07 Instruct|19.8|759|
+|69|Grok 3 Beta (no reasoning)|19.7|759|
+|70|Grok 2 12-12|19.2|651|
+|71|Gemini 1.5 Pro (Sept)|19.2|601|
+|72|Claude 3 Opus|19.2|650|
+|73|Claude 3.7 Sonnet|19.2|651|
+|74|Gemini 2.0 Flash|18.8|651|
+|75|GPT-4o 2024-11-20|18.7|601|
+|76|Llama 4 Maverick|18.5|759|
+|77|Qwen 2.5 Max|18.0|651|
+|78|GPT-4o 2024-08-06|17.8|601|
+|79|Claude 3.5 Sonnet 2024-10-22|17.7|651|
+|80|Llama 4 Scout|17.4|759|
+|81|DeepSeek V3-0324|16.8|759|
+|82|Llama 3.1 405B|16.2|651|
+|83|Mistral Medium 3.1|15.2|759|
+|84|DeepSeek V3|15.1|651|
+|85|Llama 3.3 70B|15.1|651|
+|86|Baidu Ernie 4.5 300B A47B|14.8|759|
+|87|GPT-4.1 mini|14.4|759|
+|88|MiniMax-Text-01|13.8|759|
+|89|Cohere Command A|13.1|759|
+|90|Mistral Large 2|12.4|759|
+|91|Gemma 2 27B|12.2|651|
+|92|LongCat Flash|12.1|759|
+|93|Gemma 3 27B|11.6|759|
+|94|Mistral Medium 3|11.5|759|
+|95|Mistral Small 3.1|11.4|651|
+|96|Mistral Small 3.2|11.2|759|
+|97|Qwen 2.5 72B|10.5|759|
+|98|Claude 3.5 Haiku|10.0|759|
+|99|Amazon Nova Pro|9.9|759|
+|100|Microsoft Phi-4|9.9|759|
+|101|GPT-4o mini|9.7|759|
+|102|Mistral Small 3|8.9|601|
+|103|GPT-4.1 nano|8.1|759|
+|104|GLM4-32B-0414|7.6|759|
+|105|Claude 3 Haiku|2.2|601|
+
 
 
 
@@ -227,6 +229,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
+- Oct 15, 2025: Claude Haiku 4.5 added.
 - Oct 14, 2025: Claude Sonnet 4.5, Deepseek V3.2 Exp, GLM-4.6 added.
 - Sep 19, 2025: Grok 4 Fast, Qwen 3 Next 80B A3B Thinking, LongCat Flash Chat added.
 - Sep 6, 2025: Kimi K2-0905 added.
