@@ -105,30 +105,31 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |91|Claude 3.5 Sonnet 2024-10-22|17.7|651|
 |92|Llama 4 Scout|17.4|759|
 |93|DeepSeek V3-0324|16.8|759|
-|94|Llama 3.1 405B|16.2|651|
-|95|Mistral Medium 3.1|15.2|759|
-|96|DeepSeek V3|15.1|651|
-|97|Llama 3.3 70B|15.1|651|
-|98|Baidu Ernie 4.5 300B A47B|14.8|759|
-|99|GPT-4.1 mini|14.4|759|
-|100|MiniMax-Text-01|13.8|759|
-|101|Cohere Command A|13.1|759|
-|102|Mistral Large 2|12.4|759|
-|103|Gemma 2 27B|12.2|651|
-|104|LongCat Flash|12.1|759|
-|105|Gemma 3 27B|11.6|759|
-|106|Mistral Medium 3|11.5|759|
-|107|Mistral Small 3.1|11.4|651|
-|108|Mistral Small 3.2|11.2|759|
-|109|Qwen 2.5 72B|10.5|759|
-|110|Claude 3.5 Haiku|10.0|759|
-|111|Amazon Nova Pro|9.9|759|
-|112|Microsoft Phi-4|9.9|759|
-|113|GPT-4o mini|9.7|759|
-|114|Mistral Small 3|8.9|601|
-|115|GPT-4.1 nano|8.1|759|
-|116|GLM4-32B-0414|7.6|759|
-|117|Claude 3 Haiku|2.2|601|
+|94|Mistral Large 3|16.8|759|
+|95|Llama 3.1 405B|16.2|651|
+|96|Mistral Medium 3.1|15.2|759|
+|97|DeepSeek V3|15.1|651|
+|98|Llama 3.3 70B|15.1|651|
+|99|Baidu Ernie 4.5 300B A47B|14.8|759|
+|100|GPT-4.1 mini|14.4|759|
+|101|MiniMax-Text-01|13.8|759|
+|102|Cohere Command A|13.1|759|
+|103|Mistral Large 2|12.4|759|
+|104|Gemma 2 27B|12.2|651|
+|105|LongCat Flash|12.1|759|
+|106|Gemma 3 27B|11.6|759|
+|107|Mistral Medium 3|11.5|759|
+|108|Mistral Small 3.1|11.4|651|
+|109|Mistral Small 3.2|11.2|759|
+|110|Qwen 2.5 72B|10.5|759|
+|111|Claude 3.5 Haiku|10.0|759|
+|112|Amazon Nova Pro|9.9|759|
+|113|Microsoft Phi-4|9.9|759|
+|114|GPT-4o mini|9.7|759|
+|115|Mistral Small 3|8.9|601|
+|116|GPT-4.1 nano|8.1|759|
+|117|GLM4-32B-0414|7.6|759|
+|118|Claude 3 Haiku|2.2|601|
 
 
 
@@ -240,6 +241,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
+- Dec 2, 2025: Mistral Large 3 added.
 - Nov 24, 2025: Claude Opus 4.5 added.
 - Nov 21, 2025: Grok 4.1 Fast added.
 - Nov 18, 2025: Gemini 3 Pro Preview, GPT 5.1 added
