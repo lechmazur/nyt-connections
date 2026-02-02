@@ -257,7 +257,7 @@ This benchmark evaluates large language models (LLMs) using 436 NYT Connections 
 ---
 
 ## Updates
-- Feb 2, 2026: 940 total puzzles. Kimi K2.5 Thinking, Qwen3 Max (2026-01-23), MiniMax-M2.1 added.
+- Feb 2, 2026: 940 total puzzles. Kimi K2.5 Thinking, Qwen3 Max (2026-01-23), MiniMax-M2.1, DeepSeek V3.2 added.
 - Dec 17, 2025: Gemini 3 Flash Preview added.
 - Dec 12, 2025: GPT 5.2 xhigh, GPT 5.2 Pro added.
 - Dec 11, 2025: GPT 5.2 added.
