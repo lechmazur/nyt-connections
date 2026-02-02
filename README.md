@@ -1,6 +1,6 @@
 # Extended Version
 
-This benchmark evaluates large language models (LLMs) using 759 NYT Connections puzzles, with additional words included to increase difficulty.
+This benchmark evaluates large language models (LLMs) using 940 NYT Connections puzzles, with additional words included to increase difficulty.
 
 As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Connections benchmark is nearing saturation, with o1 scoring 90.7 and o3, along with other reasoning models, expected this year. The current rules require knowing only three categories, letting the fourth fall into place. To increase difficulty, Extended Connections adds up to four extra trick words to each puzzle. We double-check that none of the added words fit into any category used in the corresponding puzzle. New puzzles have expanded the total from 436 to 940 as of Feb 2, 2026. 
 
