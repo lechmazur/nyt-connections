@@ -12,21 +12,21 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 
 |Rank|Model|Score %|#Puzzles|
 |---:|-----|------:|-------:|
-|1|Gemini 3 Pro Preview|96.3|940|
-|2|Claude Opus 4.6 (high reasoning)|94.7|940|
-|3|Sherlock Think Alpha|92.4|759|
-|4|Grok 4 Fast Reasoning|92.1|759|
-|5|Grok 4|91.7|759|
-|6|Grok 4.1 Fast Reasoning|91.7|940|
-|7|Sonoma Sky Alpha|90.7|759|
-|8|GPT-5.2 (extra high reasoning)|88.6|940|
-|9|Gemini 3.1 Pro Preview|88.5|940|
+|1|Gemini 3.1 Pro Preview|98.4|940|
+|2|Gemini 3 Pro Preview|96.3|940|
+|3|Claude Opus 4.6 (high reasoning)|94.7|940|
+|4|Sherlock Think Alpha|92.4|759|
+|5|Grok 4 Fast Reasoning|92.1|759|
+|6|Grok 4|91.7|759|
+|7|Grok 4.1 Fast Reasoning|91.7|940|
+|8|Sonoma Sky Alpha|90.7|759|
+|9|GPT-5.2 (extra high reasoning)|88.6|940|
 |10|Gemini 3 Flash Preview|88.4|940|
 |11|o3-pro (medium reasoning)|87.3|759|
 |12|GPT-5.2 Pro|85.7|940|
 |13|Claude Sonnet 4.6 (high reasoning)|85.7|940|
 |14|GPT-5 Pro|83.9|759|
-|15|glm-5|83.7|835|
+|15|glm-5|83.1|869|
 |16|o1-pro (medium reasoning)|82.5|651|
 |17|Claude Sonnet 4.6 Thinking 32K|82.4|940|
 |18|Claude Opus 4.6 Thinking 16K|81.7|940|
@@ -157,6 +157,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |143|GPT-4.1 nano|8.1|759|
 |144|GLM4-32B-0414|7.6|759|
 |145|Claude 3 Haiku|2.2|601|
+
 
 
 
