@@ -247,7 +247,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 ---
 
 ## Notes
-- A temperature setting of 0 was used
+- A temperature setting of 1 was used
 - Partial credit is awarded if the puzzle isn't completely solved. 
 - Only one attempt is allowed per puzzle. Humans solving puzzles on the NYT website get four attempts and a notification when they're one step away from the solution.
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
