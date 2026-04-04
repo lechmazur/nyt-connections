@@ -46,24 +46,25 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |32|ByteDance Seed2.0 Pro|42.1|940|
 |33|Qwen3 Max (2026-01-23)|41.8|940|
 |34|Xiaomi MiMo V2 Pro|40.9|940|
-|35|GPT-5.4 (no reasoning)|32.8|940|
-|36|LongCat Flash Thinking|31.0|940|
-|37|Gemma 4 31B IT|30.1|940|
-|38|MiniMax-M2.5|29.6|940|
-|39|Arcee Trinity Large Thinking|29.5|940|
-|40|GPT-5.2 (no reasoning)|28.1|940|
-|41|MiniMax-M2|27.0|940|
-|42|Claude 4.5 Haiku|25.9|940|
-|43|Grok 4.1 Fast Non-Reasoning|25.0|940|
-|44|Qwen 3 Max Thinking|24.1|940|
-|45|MiniMax-M2.1|22.7|940|
-|46|Baidu Ernie 5.0|21.2|940|
-|47|Gemini 3.1 Flash-Lite Preview|19.7|940|
-|48|Llama 4 Maverick|18.4|940|
-|49|Deepseek V3.2 (no reasoning)|17.8|940|
-|50|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
-|51|Mistral Large 3|17.2|940|
-|52|Mistral Medium 3.1|15.5|940|
+|35|MiniMax-M2.7|34.4|940|
+|36|GPT-5.4 (no reasoning)|32.8|940|
+|37|LongCat Flash Thinking|31.0|940|
+|38|Gemma 4 31B IT|30.1|940|
+|39|MiniMax-M2.5|29.6|940|
+|40|Arcee Trinity Large Thinking|29.5|940|
+|41|GPT-5.2 (no reasoning)|28.1|940|
+|42|MiniMax-M2|27.0|940|
+|43|Claude 4.5 Haiku|25.9|940|
+|44|Grok 4.1 Fast Non-Reasoning|25.0|940|
+|45|Qwen 3 Max Thinking|24.1|940|
+|46|MiniMax-M2.1|22.7|940|
+|47|Baidu Ernie 5.0|21.2|940|
+|48|Gemini 3.1 Flash-Lite Preview|19.7|940|
+|49|Llama 4 Maverick|18.4|940|
+|50|Deepseek V3.2 (no reasoning)|17.8|940|
+|51|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
+|52|Mistral Large 3|17.2|940|
+|53|Mistral Medium 3.1|15.5|940|
 
 
 
@@ -287,6 +288,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 ---
 
 ## Updates
+- April 4, 2026: MiniMax-M2.7 added.
 - April 3, 2026: Arcee Trinity Large Thinking, Qwen 3.6 Plus, Gemma 4 31B added.
 - Mar 6, 2026: Grok 4.20 Beta Experminatal, Gemini 3.1 Flash-Lite Preview added.
 - Mar 5, 2026: GPT-5.4 added.
