@@ -13,62 +13,69 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |Rank|Model|Score %|#Puzzles|
 |---:|-----|------:|-------:|
 |1|Gemini 3.1 Pro Preview|98.4|940|
-|2|Gemini 3 Pro Preview|96.3|940|
+|2|gemini-3-pro-preview|96.3|940|
 |3|Claude Opus 4.6 (high reasoning)|94.7|940|
 |4|GPT-5.4 (xhigh reasoning)|94.0|940|
 |5|GPT-5.4 (high reasoning)|93.6|940|
 |6|Grok 4.20 Multi-Agent Exp Beta 0304|93.4|940|
 |7|GPT-5.4 (medium reasoning)|91.9|940|
-|8|Grok 4.1 Fast Reasoning|91.7|940|
-|9|Grok 4.20 Beta 0309 (Reasoning)|90.3|940|
-|10|Grok 4.20 Reasoning Exp Beta 0304|89.5|940|
-|11|GPT-5.2 (xhigh reasoning)|88.6|940|
+|8|grok-4-1-fast-reasoning|91.7|940|
+|9|Grok 4.20 0309 (Reasoning)|90.3|940|
+|10|grok-4.20-experimental-beta-0304-reasoning|89.5|940|
+|11|gpt-5.2-xhigh|88.6|940|
 |12|Gemini 3 Flash Preview|88.4|940|
 |13|GPT-5.2 Pro|85.7|940|
 |14|Claude Sonnet 4.6 (high reasoning)|85.7|940|
-|15|Claude Sonnet 4.6 Thinking 32K|82.4|940|
-|16|GLM-5|81.7|940|
-|17|Claude Opus 4.6 Thinking 16K|81.7|940|
-|18|Gemma 4 31B Reasoning|79.5|940|
-|19|Kimi K2.5 Thinking|78.3|940|
-|20|GPT-5.2 (high reasoning)|77.5|940|
-|21|GPT-5.4 Mini (xhigh reasoning)|71.8|940|
-|22|Qwen 3.6 Plus|71.5|940|
-|23|GPT-5.2 (medium reasoning)|71.4|940|
-|24|Qwen3.5-397B-A17B|69.2|940|
-|25|GPT-5.2 (low reasoning)|66.7|940|
-|26|Qwen3.5-122B-A10B|63.6|940|
-|27|Claude Opus 4.5 Thinking 16K|62.6|940|
-|28|Claude Opus 4.5 (no reasoning)|60.3|940|
-|29|Claude Sonnet 4.6 Thinking 16K|57.6|940|
-|30|Claude Opus 4.6 (no reasoning)|55.9|940|
-|31|Claude Sonnet 4.6 (no reasoning)|55.0|940|
-|32|Deepseek V3.2|50.2|940|
-|33|Claude Sonnet 4.5 Thinking 16K|49.4|940|
-|34|Claude Sonnet 4.5 (no reasoning)|47.4|940|
-|35|Qwen3 Max (2026-01-23)|42.1|940|
-|36|ByteDance Seed2.0 Pro|42.1|940|
-|37|Xiaomi MiMo V2 Pro|40.9|940|
-|38|Step 3.5 Flash|39.9|940|
-|39|MiniMax-M2.7|34.4|940|
-|40|GPT-5.4 (no reasoning)|32.8|940|
-|41|LongCat Flash Thinking|31.0|940|
-|42|Gemma 4 31B IT|30.1|940|
-|43|MiniMax-M2.5|29.6|940|
-|44|Arcee Trinity Large Thinking|29.5|940|
-|45|GPT-5.2 (no reasoning)|28.1|940|
-|46|MiniMax-M2|27.0|940|
-|47|Claude 4.5 Haiku|26.0|940|
-|48|Grok 4.1 Fast Non-Reasoning|25.1|940|
-|49|Qwen 3 Max Thinking|24.1|940|
-|50|MiniMax-M2.1|22.7|940|
-|51|Baidu Ernie 5.0|21.2|940|
-|52|Gemini 3.1 Flash-Lite Preview|19.7|940|
-|53|Llama 4 Maverick|18.4|940|
-|54|Deepseek V3.2 (no reasoning)|17.8|940|
-|55|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
-|56|Mistral Large 3|17.2|940|
-|57|Mistral Medium 3.1|15.5|940|
+|15|GLM-5.1|84.3|940|
+|16|Claude Sonnet 4.6 Thinking 32K|82.4|940|
+|17|GLM-5|81.7|940|
+|18|Claude Opus 4.6 Thinking 16K|81.7|940|
+|19|Gemma 4 31B Reasoning|79.5|940|
+|20|Kimi K2.5 Thinking|78.3|940|
+|21|gpt-5.2-high|77.5|940|
+|22|GPT-5.4 Mini (xhigh reasoning)|71.8|940|
+|23|gpt-5.2-medium|71.4|940|
+|24|Qwen 3.6 Plus|71.3|940|
+|25|Qwen3.5-397B-A17B|69.2|940|
+|26|gpt-5.2-low|66.7|940|
+|27|Qwen3.5-122B-A10B|63.6|940|
+|28|Claude Opus 4.5 Thinking 16K|62.6|940|
+|29|Qwen3.5-27B|60.7|940|
+|30|Claude Opus 4.5 (no reasoning)|60.3|940|
+|31|Claude Sonnet 4.6 Thinking 16K|57.6|940|
+|32|Claude Opus 4.6 (no reasoning)|55.9|940|
+|33|Claude Sonnet 4.6 (no reasoning)|55.0|940|
+|34|DeepSeek V3.2|50.2|940|
+|35|Claude Sonnet 4.5 Thinking 16K|49.4|940|
+|36|Claude Sonnet 4.5 (no reasoning)|47.4|940|
+|37|qwen3-max-2026-01-23|42.1|940|
+|38|ByteDance Seed2.0 Pro|42.1|940|
+|39|Claude Opus 4.7 (high reasoning)|41.0|940|
+|40|Xiaomi MiMo V2 Pro|40.9|940|
+|41|Step 3.5 Flash|39.9|940|
+|42|MiniMax-M2.7|35.2|940|
+|43|GPT-5.4 (no reasoning)|32.8|940|
+|44|LongCat Flash Thinking|31.0|940|
+|45|Gemma 4 31B IT|30.1|940|
+|46|minimax-m2.5|29.6|940|
+|47|Arcee Trinity Large Thinking|29.5|940|
+|48|gpt-5.2-none|28.1|940|
+|49|minimax-m2|27.0|940|
+|50|Claude 4.5 Haiku|26.0|940|
+|51|grok-4-1-fast-non-reasoning|25.1|940|
+|52|qwen3-max-thinking|24.1|940|
+|53|minimax-m2.1|22.7|940|
+|54|Baidu Ernie 5.0|21.2|940|
+|55|Gemini 3.1 Flash-Lite Preview|19.7|940|
+|56|Grok 4.20 0309 (Non-Reasoning)|19.2|940|
+|57|Llama 4 Maverick|18.4|940|
+|58|DeepSeek V3.2 (no reasoning)|17.8|940|
+|59|grok-4.20-experimental-beta-0304-non-reasoning|17.6|940|
+|60|Mistral Large 3|17.2|940|
+|61|Mistral Medium 3.1|15.5|940|
+|62|Claude Opus 4.7 (no reasoning)|15.3|940|
+
+
 
 
 
@@ -265,7 +272,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 ---
 
 ## Notes
-- A temperature setting of 1 was used
+- Claude Opus 4.7 refuses a lot of requests.
 - Partial credit is awarded if the puzzle isn't completely solved. 
 - Only one attempt is allowed per puzzle. Humans solving puzzles on the NYT website get four attempts and a notification when they're one step away from the solution.
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
@@ -292,6 +299,8 @@ These models are excluded from the main board because they ran fewer than 940 to
 ---
 
 ## Updates
+- April 16, 2025: Claude Opus 4.7 added.
+- April 15, 2026: GLM-5.1, Step 3.5 Flash, Qwen3.5-27B added.
 - April 6, 2026: GPT 5.4 (high), Gemma 4 31B Reasoning, Qwen3.5-122B-A10B added.
 - April 4, 2026: MiniMax-M2.7 added.
 - April 3, 2026: Arcee Trinity Large Thinking, Qwen 3.6 Plus, Gemma 4 31B added.
