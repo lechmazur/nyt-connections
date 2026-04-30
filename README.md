@@ -54,36 +54,39 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |40|DeepSeek V4 Flash|53.2|940|
 |41|DeepSeek V3.2|50.2|940|
 |42|Claude Sonnet 4.5 Thinking 16K|49.4|940|
-|43|Claude Sonnet 4.5 (no reasoning)|47.4|940|
-|44|Qwen3 Max (2026-01-23)|42.1|940|
-|45|ByteDance Seed2.0 Pro|42.1|940|
-|46|Claude Opus 4.7 (high reasoning)|41.0|940|
-|47|Xiaomi MiMo V2 Pro|41.0|940|
-|48|GPT-5.5 (no reasoning)|37.5|940|
-|49|Step 3.5 Flash|36.7|940|
-|50|MiniMax-M2.7|35.3|940|
-|51|GPT-5.4 (no reasoning)|32.8|940|
-|52|LongCat Flash Thinking|31.0|940|
-|53|Tencent Hy3 Preview|30.2|940|
-|54|Gemma 4 31B IT|30.1|940|
-|55|MiniMax-M2.5|29.6|940|
-|56|Arcee Trinity Large Thinking|29.5|940|
-|57|GPT-5.2 (no reasoning)|28.1|940|
-|58|MiniMax-M2|27.0|940|
-|59|Claude 4.5 Haiku|26.0|940|
-|60|Grok 4.1 Fast Non-Reasoning|25.1|940|
-|61|Qwen 3 Max Thinking|24.2|940|
-|62|MiniMax-M2.1|22.7|940|
-|63|Baidu Ernie 5.0|21.2|940|
-|64|Gemini 3.1 Flash-Lite Preview|19.7|940|
-|65|Grok 4.20 0309 (Non-Reasoning)|19.2|940|
-|66|Llama 4 Maverick|18.4|940|
-|67|DeepSeek V3.2 (no reasoning)|17.8|940|
-|68|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
-|69|Mistral Large 3|17.2|940|
-|70|Mistral Medium 3.1|15.5|940|
-|71|Claude Opus 4.7 (no reasoning)|15.3|940|
-|72|Ling 2.6 1T|10.8|940|
+|43|Xiaomi MiMo V2.5 Pro|48.0|940|
+|44|Claude Sonnet 4.5 (no reasoning)|47.4|940|
+|45|Qwen3 Max (2026-01-23)|42.1|940|
+|46|ByteDance Seed2.0 Pro|42.1|940|
+|47|Claude Opus 4.7 (high reasoning)|41.0|940|
+|48|Xiaomi MiMo V2 Pro|41.0|940|
+|49|GPT-5.5 (no reasoning)|37.5|940|
+|50|Step 3.5 Flash|36.7|940|
+|51|MiniMax-M2.7|35.3|940|
+|52|GPT-5.4 (no reasoning)|32.8|940|
+|53|LongCat Flash Thinking|31.0|940|
+|54|Tencent Hy3 Preview|30.2|940|
+|55|Gemma 4 31B IT|30.1|940|
+|56|MiniMax-M2.5|29.6|940|
+|57|Arcee Trinity Large Thinking|29.5|940|
+|58|GPT-5.2 (no reasoning)|28.1|940|
+|59|MiniMax-M2|27.0|940|
+|60|Nemotron 3 Super|26.9|940|
+|61|Claude 4.5 Haiku|26.0|940|
+|62|Mistral Medium 3.5 High Reasoning|25.2|940|
+|63|Grok 4.1 Fast Non-Reasoning|25.1|940|
+|64|Qwen 3 Max Thinking|24.2|940|
+|65|MiniMax-M2.1|22.7|940|
+|66|Baidu Ernie 5.0|21.2|940|
+|67|Gemini 3.1 Flash-Lite Preview|19.7|940|
+|68|Grok 4.20 0309 (Non-Reasoning)|19.2|940|
+|69|Llama 4 Maverick|18.4|940|
+|70|DeepSeek V3.2 (no reasoning)|17.8|940|
+|71|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
+|72|Mistral Large 3|17.2|940|
+|73|Mistral Medium 3.1|15.5|940|
+|74|Claude Opus 4.7 (no reasoning)|15.3|940|
+|75|Ling 2.6 1T|10.8|940|
 
 
 
@@ -308,6 +311,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 ---
 
 ## Updates
+- April 29, 2026: Mistral Medium 3.5, Nemotron 3 Super added
 - April 25, 2026: GPT-5.5, Kimi K2.6, Ling 2.6 1T, Tencent Hy3 Preview, DeepSeek V4 Pro, DeepSeek V4 Flash, Qwen 3.6 Max Preview added.
 - April 16, 2026: Claude Opus 4.7 added.
 - April 15, 2026: GLM-5.1, Step 3.5 Flash, Qwen3.5-27B added.
