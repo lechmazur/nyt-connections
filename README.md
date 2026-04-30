@@ -2,7 +2,7 @@
 
 This benchmark evaluates large language models (LLMs) using 940 NYT Connections puzzles, with additional words included to increase difficulty.
 
-As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Connections benchmark is nearing saturation, with o1 scoring 90.7 and o3, along with other reasoning models, expected this year. The current rules require knowing only three categories, letting the fourth fall into place. To increase difficulty, Extended Connections adds up to four extra trick words to each puzzle. We double-check that none of the added words fit into any category used in the corresponding puzzle. New puzzles have expanded the total from 436 to 940 as of Feb 2, 2026. 
+As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Connections benchmark is nearing saturation, with o1 scoring 90.7 and o3, along with other reasoning models, expected this year. The current rules require knowing only three categories, letting the fourth fall into place. To increase difficulty, Extended Connections adds up to four extra trick words to each puzzle. We double-check that none of the added words fit into any category used in the corresponding puzzle. New puzzles have expanded the total from 436 to 940 as of Feb 2, 2026.
 
 ### Chart: Extended Version
 
@@ -88,10 +88,26 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |74|Claude Opus 4.7 (no reasoning)|15.3|940|
 |75|Ling 2.6 1T|10.8|940|
 
+---
+## Model comparison scatter charts
 
+### Model family progress
 
+This chart shows score progress over time within each model family on a shared 601-puzzle comparison set.
 
+![Model family progress](images/model_intro_date_vs_score_family_progress_common601.png)
 
+### Introduction date vs. score
+
+This chart compares benchmark score against model introduction date on the same shared 601-puzzle comparison set.
+
+![Introduction date vs. score](images/model_intro_date_vs_score_common601.png)
+
+### Cost vs. performance
+
+This chart compares estimated average cost per puzzle with benchmark score.
+
+![Cost vs. performance](images/model_cost_vs_performance.png)
 
 ---
 ### Correlation of puzzle-level results: heatmap
@@ -99,7 +115,7 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 ![Correlations](images/llm_puzzle_corr.png)
 
 ---
-## Newest 100 puzzles. 
+## Newest 100 puzzles.
 
 To counteract the possibility of an LLM's training data including the solutions, we have also tested only the 100 latest puzzles. Note that lower scores do not necessarily indicate that NYT Connections solutions are in the training data, as the difficulty of the first puzzles was lower.
 
@@ -286,7 +302,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 
 ## Notes
 - Claude Opus 4.7 refuses a lot of requests and therefore scores poorly.
-- Partial credit is awarded if the puzzle isn't completely solved. 
+- Partial credit is awarded if the puzzle isn't completely solved.
 - Only one attempt is allowed per puzzle. Humans solving puzzles on the NYT website get four attempts and a notification when they're one step away from the solution.
 - This benchmark is not affiliated with the New York Times
 
@@ -348,7 +364,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 - July 3, 2025: Qwen 3 32B, GLM4-32B-0414 added.
 - July 2, 2025: Baidu Ernie 4.5 300B A47B, MiniMax-M1, Mistral Small 3.2 added.
 - June 10, 2025: o3-pro added.
-- June 5, 2025: Gemini 2.5 Pro Preview 06-05 added. 
+- June 5, 2025: Gemini 2.5 Pro Preview 06-05 added.
 - May 28, 2025: DeepSeek R1 05/28 added.
 - May 22, 2025: Claude 4 models added.
 - May 7, 2025: Gemini 2.5 Pro Preview 05-06 added. Mistral Medium 3 added.
@@ -379,4 +395,3 @@ These models are excluded from the main board because they ran fewer than 940 to
 - Claude 3.5 Sonnet (2024-10-22) added. Improves from 25.9 from 24.4.
 - Grok Beta added. Improves from 21.3 to 23.7. It's described as "experimental language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases. It is the successor of Grok 2 with enhanced context length."
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
-
