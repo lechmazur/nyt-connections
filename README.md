@@ -110,21 +110,6 @@ This chart compares estimated average cost per puzzle with benchmark score.
 
 ![Cost vs. performance](images/model_cost_vs_performance.png)
 
-Recent Grok cost and token snapshot, per puzzle on the 940-puzzle surface:
-
-|Model|Score %|Avg cost|Avg input tokens|Avg output tokens|Avg input + output tokens|Reasoning tokens|
-|---|---:|---:|---:|---:|---:|---:|
-|Grok 4.20 Multi-Agent Exp Beta 0304|93.4|n/a|22,446.9|38,457.5|60,904.4|19,204.4|
-|Grok 4.1 Fast Reasoning|91.8|$0.0000858773|338.1|36.5|374.6|6,625.0|
-|Grok 4.20 0309 (Reasoning)|90.4|$0.0494417488|306.2|8,138.2|8,444.4|n/a|
-|Grok 4.20 Reasoning Exp Beta 0304|89.5|n/a|306.1|6,988.6|7,294.7|6,953.0|
-|Grok 4.3|67.5|$0.0322450146|306.1|12,820.2|13,126.2|12,784.7|
-|Grok 4.1 Fast Non-Reasoning|25.1|$0.0000886840|350.1|37.3|387.4|0.0|
-|Grok 4.20 0309 (Non-Reasoning)|19.2|n/a|n/a|n/a|n/a|n/a|
-|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|n/a|304.1|37.5|341.6|0.0|
-
-Reasoning tokens are included in output-token totals when reported.
-
 ---
 ### Correlation of puzzle-level results: heatmap
 
