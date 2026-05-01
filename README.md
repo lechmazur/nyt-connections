@@ -43,50 +43,51 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |29|GPT-5.2 (medium reasoning)|71.4|940|
 |30|Qwen 3.6 Plus|71.3|940|
 |31|Qwen3.5-397B-A17B|69.3|940|
-|32|GPT-5.2 (low reasoning)|66.8|940|
-|33|Qwen3.5-122B-A10B|63.6|940|
-|34|Claude Opus 4.5 Thinking 16K|62.6|940|
-|35|Qwen3.5-27B|60.8|940|
-|36|Claude Opus 4.5 (no reasoning)|60.3|940|
-|37|Claude Sonnet 4.6 Thinking 16K|57.6|940|
-|38|Claude Opus 4.6 (no reasoning)|56.8|940|
-|39|Claude Sonnet 4.6 (no reasoning)|55.2|940|
-|40|DeepSeek V4 Flash|53.2|940|
-|41|DeepSeek V3.2|50.2|940|
-|42|Claude Sonnet 4.5 Thinking 16K|49.4|940|
-|43|Xiaomi MiMo V2.5 Pro|48.0|940|
-|44|Claude Sonnet 4.5 (no reasoning)|47.4|940|
-|45|Qwen3 Max (2026-01-23)|42.1|940|
-|46|ByteDance Seed2.0 Pro|42.1|940|
-|47|Claude Opus 4.7 (high reasoning)|41.0|940|
-|48|Xiaomi MiMo V2 Pro|41.0|940|
-|49|GPT-5.5 (no reasoning)|37.5|940|
-|50|Step 3.5 Flash|36.7|940|
-|51|MiniMax-M2.7|35.3|940|
-|52|GPT-5.4 (no reasoning)|32.8|940|
-|53|LongCat Flash Thinking|31.0|940|
-|54|Tencent Hy3 Preview|30.2|940|
-|55|Gemma 4 31B IT|30.1|940|
-|56|MiniMax-M2.5|29.6|940|
-|57|Arcee Trinity Large Thinking|29.5|940|
-|58|GPT-5.2 (no reasoning)|28.1|940|
-|59|MiniMax-M2|27.0|940|
-|60|Nemotron 3 Super|26.9|940|
-|61|Claude 4.5 Haiku|26.0|940|
-|62|Mistral Medium 3.5 High Reasoning|25.2|940|
-|63|Grok 4.1 Fast Non-Reasoning|25.1|940|
-|64|Qwen 3 Max Thinking|24.2|940|
-|65|MiniMax-M2.1|22.7|940|
-|66|Baidu Ernie 5.0|21.2|940|
-|67|Gemini 3.1 Flash-Lite Preview|19.7|940|
-|68|Grok 4.20 0309 (Non-Reasoning)|19.2|940|
-|69|Llama 4 Maverick|18.4|940|
-|70|DeepSeek V3.2 (no reasoning)|17.8|940|
-|71|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
-|72|Mistral Large 3|17.2|940|
-|73|Mistral Medium 3.1|15.5|940|
-|74|Claude Opus 4.7 (no reasoning)|15.3|940|
-|75|Ling 2.6 1T|10.8|940|
+|32|Grok 4.3|67.5|940|
+|33|GPT-5.2 (low reasoning)|66.8|940|
+|34|Qwen3.5-122B-A10B|63.6|940|
+|35|Claude Opus 4.5 Thinking 16K|62.6|940|
+|36|Qwen3.5-27B|60.8|940|
+|37|Claude Opus 4.5 (no reasoning)|60.3|940|
+|38|Claude Sonnet 4.6 Thinking 16K|57.6|940|
+|39|Claude Opus 4.6 (no reasoning)|56.8|940|
+|40|Claude Sonnet 4.6 (no reasoning)|55.2|940|
+|41|DeepSeek V4 Flash|53.2|940|
+|42|DeepSeek V3.2|50.2|940|
+|43|Claude Sonnet 4.5 Thinking 16K|49.4|940|
+|44|Xiaomi MiMo V2.5 Pro|48.0|940|
+|45|Claude Sonnet 4.5 (no reasoning)|47.4|940|
+|46|Qwen3 Max (2026-01-23)|42.1|940|
+|47|ByteDance Seed2.0 Pro|42.1|940|
+|48|Claude Opus 4.7 (high reasoning)|41.0|940|
+|49|Xiaomi MiMo V2 Pro|41.0|940|
+|50|GPT-5.5 (no reasoning)|37.5|940|
+|51|Step 3.5 Flash|36.7|940|
+|52|MiniMax-M2.7|35.3|940|
+|53|GPT-5.4 (no reasoning)|32.8|940|
+|54|LongCat Flash Thinking|31.0|940|
+|55|Tencent Hy3 Preview|30.2|940|
+|56|Gemma 4 31B IT|30.1|940|
+|57|MiniMax-M2.5|29.6|940|
+|58|Arcee Trinity Large Thinking|29.5|940|
+|59|GPT-5.2 (no reasoning)|28.1|940|
+|60|MiniMax-M2|27.0|940|
+|61|Nemotron 3 Super|26.9|940|
+|62|Claude 4.5 Haiku|26.0|940|
+|63|Mistral Medium 3.5 High Reasoning|25.2|940|
+|64|Grok 4.1 Fast Non-Reasoning|25.1|940|
+|65|Qwen 3 Max Thinking|24.2|940|
+|66|MiniMax-M2.1|22.7|940|
+|67|Baidu Ernie 5.0|21.2|940|
+|68|Gemini 3.1 Flash-Lite Preview|19.7|940|
+|69|Grok 4.20 0309 (Non-Reasoning)|19.2|940|
+|70|Llama 4 Maverick|18.4|940|
+|71|DeepSeek V3.2 (no reasoning)|17.8|940|
+|72|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
+|73|Mistral Large 3|17.2|940|
+|74|Mistral Medium 3.1|15.5|940|
+|75|Claude Opus 4.7 (no reasoning)|15.3|940|
+|76|Ling 2.6 1T|10.8|940|
 
 ---
 ## Model comparison scatter charts
@@ -108,6 +109,21 @@ This chart compares benchmark score against model introduction date on the same 
 This chart compares estimated average cost per puzzle with benchmark score.
 
 ![Cost vs. performance](images/model_cost_vs_performance.png)
+
+Recent Grok cost and token snapshot, per puzzle on the 940-puzzle surface:
+
+|Model|Score %|Avg cost|Avg input tokens|Avg output tokens|Avg input + output tokens|Reasoning tokens|
+|---|---:|---:|---:|---:|---:|---:|
+|Grok 4.20 Multi-Agent Exp Beta 0304|93.4|n/a|22,446.9|38,457.5|60,904.4|19,204.4|
+|Grok 4.1 Fast Reasoning|91.8|$0.0000858773|338.1|36.5|374.6|6,625.0|
+|Grok 4.20 0309 (Reasoning)|90.4|$0.0494417488|306.2|8,138.2|8,444.4|n/a|
+|Grok 4.20 Reasoning Exp Beta 0304|89.5|n/a|306.1|6,988.6|7,294.7|6,953.0|
+|Grok 4.3|67.5|$0.0322450146|306.1|12,820.2|13,126.2|12,784.7|
+|Grok 4.1 Fast Non-Reasoning|25.1|$0.0000886840|350.1|37.3|387.4|0.0|
+|Grok 4.20 0309 (Non-Reasoning)|19.2|n/a|n/a|n/a|n/a|n/a|
+|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|n/a|304.1|37.5|341.6|0.0|
+
+Reasoning tokens are included in output-token totals when reported.
 
 ---
 ### Correlation of puzzle-level results: heatmap
@@ -327,6 +343,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 ---
 
 ## Updates
+- May 1, 2026: Grok 4.3 added
 - April 29, 2026: Mistral Medium 3.5, Nemotron 3 Super added
 - April 25, 2026: GPT-5.5, Kimi K2.6, Ling 2.6 1T, Tencent Hy3 Preview, DeepSeek V4 Pro, DeepSeek V4 Flash, Qwen 3.6 Max Preview added.
 - April 16, 2026: Claude Opus 4.7 added.
