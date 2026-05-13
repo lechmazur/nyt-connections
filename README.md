@@ -61,33 +61,34 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |47|ByteDance Seed2.0 Pro|42.1|940|
 |48|Claude Opus 4.7 (high reasoning)|41.0|940|
 |49|Xiaomi MiMo V2 Pro|41.0|940|
-|50|GPT-5.5 (no reasoning)|37.5|940|
-|51|Step 3.5 Flash|36.7|940|
-|52|MiniMax-M2.7|35.3|940|
-|53|GPT-5.4 (no reasoning)|32.8|940|
-|54|LongCat Flash Thinking|31.0|940|
-|55|Tencent Hy3 Preview|30.2|940|
-|56|Gemma 4 31B IT|30.1|940|
-|57|MiniMax-M2.5|29.6|940|
-|58|Arcee Trinity Large Thinking|29.5|940|
-|59|GPT-5.2 (no reasoning)|28.1|940|
-|60|MiniMax-M2|27.0|940|
-|61|Nemotron 3 Super|26.9|940|
-|62|Claude 4.5 Haiku|26.0|940|
-|63|Mistral Medium 3.5 High Reasoning|25.2|940|
-|64|Grok 4.1 Fast Non-Reasoning|25.1|940|
-|65|Qwen 3 Max Thinking|24.2|940|
-|66|MiniMax-M2.1|22.7|940|
-|67|Baidu Ernie 5.0|21.2|940|
-|68|Gemini 3.1 Flash-Lite Preview|19.7|940|
-|69|Grok 4.20 0309 (Non-Reasoning)|19.2|940|
-|70|Llama 4 Maverick|18.4|940|
-|71|DeepSeek V3.2 (no reasoning)|17.8|940|
-|72|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
-|73|Mistral Large 3|17.2|940|
-|74|Mistral Medium 3.1|15.5|940|
-|75|Claude Opus 4.7 (no reasoning)|15.3|940|
-|76|Ling 2.6 1T|10.8|940|
+|50|Baidu Ernie 5.1|38.5|940|
+|51|GPT-5.5 (no reasoning)|37.5|940|
+|52|Step 3.5 Flash|36.7|940|
+|53|MiniMax-M2.7|35.3|940|
+|54|GPT-5.4 (no reasoning)|32.8|940|
+|55|LongCat Flash Thinking|31.0|940|
+|56|Tencent Hy3 Preview|30.2|940|
+|57|Gemma 4 31B IT|30.1|940|
+|58|MiniMax-M2.5|29.6|940|
+|59|Arcee Trinity Large Thinking|29.5|940|
+|60|GPT-5.2 (no reasoning)|28.1|940|
+|61|MiniMax-M2|27.0|940|
+|62|Nemotron 3 Super|26.9|940|
+|63|Claude 4.5 Haiku|26.0|940|
+|64|Mistral Medium 3.5 (high)|25.2|940|
+|65|Grok 4.1 Fast Non-Reasoning|25.1|940|
+|66|Qwen 3 Max Thinking|24.2|940|
+|67|MiniMax-M2.1|22.7|940|
+|68|Baidu Ernie 5.0|21.2|940|
+|69|Gemini 3.1 Flash-Lite Preview|19.7|940|
+|70|Grok 4.20 0309 (Non-Reasoning)|19.2|940|
+|71|Llama 4 Maverick|18.4|940|
+|72|DeepSeek V3.2 (no reasoning)|17.8|940|
+|73|Grok 4.20 Non-Reasoning Exp Beta 0304|17.6|940|
+|74|Mistral Large 3|17.2|940|
+|75|Mistral Medium 3.1|15.5|940|
+|76|Claude Opus 4.7 (no reasoning)|15.3|940|
+|77|Ling 2.6 1T|10.8|940|
 
 ---
 ## Model comparison scatter charts
@@ -328,6 +329,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 ---
 
 ## Updates
+- May 12, 2026: Baidu ERNIE 5.1 added
 - May 1, 2026: Grok 4.3 added
 - April 29, 2026: Mistral Medium 3.5, Nemotron 3 Super added
 - April 25, 2026: GPT-5.5, Kimi K2.6, Ling 2.6 1T, Tencent Hy3 Preview, DeepSeek V4 Pro, DeepSeek V4 Flash, Qwen 3.6 Max Preview added.
