@@ -116,7 +116,7 @@ This chart compares benchmark score against model introduction date on the same 
 
 ### Cost vs. performance
 
-This chart compares estimated average cost per puzzle with benchmark score. The current cost surface focuses on current full-coverage models, keeps Grok 4.3 as the non-current comparison point, and keeps Claude Fable 5 (high reasoning) labeled as the next priority after the highlighted Grok 4.5 point.
+This chart compares estimated average cost per puzzle with benchmark score. The cost-chart policy focuses on current full-coverage models and keeps Claude Fable 5 (high reasoning) labeled as the next priority after the highlighted point.
 
 ![Cost vs. performance](images/model_cost_vs_performance.png)
 
@@ -430,7 +430,7 @@ These models are excluded from the main board because they ran fewer than 940 to
 ---
 
 ## Updates
-- July 9, 2026: Cost vs. performance chart refreshed with Claude Fable 5 high reasoning kept visibly labeled after the highlighted Grok 4.5 point.
+- July 9, 2026: Cost vs. performance chart policy refreshed with Claude Fable 5 high reasoning kept visibly labeled after the highlighted point.
 - June 30, 2026: Claude Sonnet 5 high reasoning added; GLM-5.2 max partial run added to older models.
 - June 19, 2026: GLM-5.2 high reasoning, Claude Fable 5, and MiniMax-M3 added.
 - May 29, 2026: Step 3.7 Flash added.
