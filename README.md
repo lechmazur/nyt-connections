@@ -16,12 +16,12 @@ As of Feb 4, 2025, there is a new version of the benchmark. The standard NYT Con
 |2|GPT-5.5 (xhigh reasoning)|97.5|940|
 |3|GPT-5.5 (high reasoning)|96.9|940|
 |4|Gemini 3 Pro Preview|96.3|940|
-|5|GPT-5.6 (xhigh reasoning)|96.1|940|
+|5|GPT-5.6 Sol (xhigh reasoning)|96.1|940|
 |6|Gemini 3.5 Flash|95.2|940|
 |7|Claude Fable 5 (high reasoning)|95.1|940|
 |8|GPT-5.5 (medium reasoning)|95.0|940|
 |9|Claude Opus 4.6 (high reasoning)|94.7|940|
-|10|GPT-5.6 (high reasoning)|94.2|940|
+|10|GPT-5.6 Sol (high reasoning)|94.2|940|
 |11|Claude Opus 4.8 (xhigh reasoning)|94.1|940|
 |12|GPT-5.4 (xhigh reasoning)|94.0|940|
 |13|GPT-5.4 (high reasoning)|93.6|940|
@@ -148,9 +148,9 @@ To counteract the possibility of an LLM's training data including the solutions,
 |1|Gemini 3.1 Pro Preview|97.8|100|
 |2|GPT-5.5 (xhigh reasoning)|97.8|100|
 |3|GPT-5.5 (high reasoning)|97.2|100|
-|4|GPT-5.6 (xhigh reasoning)|96.8|100|
+|4|GPT-5.6 Sol (xhigh reasoning)|96.8|100|
 |5|GPT-5.4 (xhigh reasoning)|96.0|100|
-|6|GPT-5.6 (high reasoning)|95.8|100|
+|6|GPT-5.6 Sol (high reasoning)|95.8|100|
 |7|Claude Fable 5 (high reasoning)|95.5|100|
 |8|Gemini 3 Pro Preview|95.2|100|
 |9|Claude Opus 4.8 (high reasoning)|95.0|100|
