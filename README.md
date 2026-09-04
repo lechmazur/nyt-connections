@@ -161,7 +161,9 @@ The main board includes only models that completed all 940 puzzles.
 ### Model family progress
 
 This chart shows score progress over time within each model family on a shared
-601-puzzle comparison set.
+601-puzzle comparison set. Unlike the current-cohort charts, it includes every
+tested model with score and release-date data, including models evaluated on
+older versions of the benchmark and models suppressed from other charts.
 
 ![Model family progress](images/model_intro_date_vs_score_family_progress_common601.png)
 
@@ -524,6 +526,9 @@ These legacy or incomplete runs use the same scoring rule but are excluded from 
 ---
 
 ## Updates
+- September 2, 2026: Gemini 3.8 Flash high and Muse Spark 1.3 high added.
+- September 1, 2026: Claude Fable 5.1 high and Tencent Hy4 Preview added.
+- August 22, 2026: Muse Spark 1.2 high, GLM-5.3 high, Qwen3.8-27B, and Tencent Hy3 high and non-thinking added.
 - August 14, 2026: Gemini 3.7 Flash added.
 - August 13, 2026: Grok 4.6 high/xhigh and DeepSeek V4 Pro high added.
 - August 4, 2026: Qwen 3.8 Max added with verified pricing.
