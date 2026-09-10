@@ -22,21 +22,8 @@ per-puzzle values.
 Scoreboard and model-comparison charts apply the current chart-suppression
 policy. The leaderboard tables retain every full-coverage result, including
 models omitted from charts, so historical results remain available for
-comparison. DeepSeek V4.1 Flash high is the only highlighted model.
-The cost-scatter progression arrow connects DeepSeek V4 Flash to
-DeepSeek V4.1 Flash high. GPT-6 Astra high and xhigh remain visible without
-highlighting. The former comparison endpoints—Claude
-Fable 5 high, Muse Spark 1.2 high, every Tencent Hy3 mode, and Gemini 3.7
-Flash—are suppressed from current-cohort charts but retained in the tables and
-the all-history family-progress chart.
-
-Current highlighted-model results:
-
-- DeepSeek V4.1 Flash (high) essentially matches DeepSeek V4 Flash: 89.6 → 89.6,
-  while using 64% fewer reasoning tokens and costing about 69% less
-  per puzzle. On the newest 100 puzzles: 87.2 → 86.1.
-  DeepSeek V4.1 Flash costs use the registered full-week
-  average of peak/off-peak prices, not the price at the time of each request.
+comparison. The all-history family-progress chart includes models suppressed
+from other charts.
 
 ### Leaderboard: Extended Version
 
@@ -186,6 +173,7 @@ same shared 601-puzzle comparison set.
 This chart compares estimated average cost per puzzle with the newest-100
 puzzle score for current full-coverage models. Costs use recorded token
 usage and comparable registered display/list prices, not billed totals.
+Time-varying prices are averaged over their full pricing cycle.
 
 ![Cost vs. performance](images/model_cost_vs_performance_highlighted.png)
 
