@@ -170,9 +170,9 @@ same shared 601-puzzle comparison set.
 
 ### Cost vs. performance
 
-This chart compares estimated average cost per puzzle with the newest-100
-puzzle score for current full-coverage models. Costs use recorded token
-usage and comparable registered display/list prices, not billed totals.
+This chart compares estimated average cost per puzzle with the full
+940-puzzle benchmark score for current full-coverage models. Costs use recorded
+token usage and comparable registered display/list prices, not billed totals.
 Time-varying prices are averaged over their full pricing cycle.
 
 ![Cost vs. performance](images/model_cost_vs_performance_highlighted.png)
