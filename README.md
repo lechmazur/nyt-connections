@@ -34,146 +34,201 @@ The main board includes only models that completed all 940 puzzles.
 |1|Gemini 4 Carbon (high reasoning)|99.3|940|
 |2|Gemini 4 Argon (high reasoning)|98.6|940|
 |3|GPT-6 Astra (max reasoning)|98.4|940|
-|4|GPT-6 Astra (xhigh reasoning)|98.1|940|
-|5|GPT-6.1 Sol (max reasoning)|97.8|940|
-|6|GPT-6 Astra (high reasoning)|97.7|940|
-|7|Gemini 3.1 Pro Preview|97.4|940|
-|8|Gemini 3.8 Flash (high reasoning)|97.4|940|
-|9|Claude Fable 5.2 (high reasoning)|97.3|940|
-|10|GPT-5.5 (xhigh reasoning)|96.2|940|
-|11|GPT-6.1 Sol (high reasoning)|95.5|940|
-|12|GPT-5.5 (high reasoning)|95.2|940|
-|13|Gemini 3 Pro Preview|94.4|940|
-|14|Claude Opus 5 (xhigh reasoning)|94.3|940|
-|15|Gemini 3.7 Flash|94.0|940|
-|16|GPT-5.6 Sol (xhigh reasoning)|93.8|940|
-|17|Kimi K3|93.6|940|
-|18|Kimi K3.1 Pro (high reasoning)|93.4|940|
-|19|Muse Wonder 1.0 (high reasoning)|93.4|940|
-|20|DeepSeek V4.1 Flash 1017 (high reasoning)|92.8|940|
-|21|Claude Fable 5 (high reasoning)|92.7|940|
-|22|Gemini 3.5 Flash|92.6|940|
-|23|GPT-5.5 (medium reasoning)|92.4|940|
-|24|Claude Opus 5 (high reasoning)|92.2|940|
-|25|Claude Opus 4.6 (high reasoning)|92.1|940|
-|26|DeepSeek V4 Pro (high reasoning)|91.3|940|
-|27|GPT-5.4 (xhigh reasoning)|91.3|940|
-|28|Claude Opus 4.8 (xhigh reasoning)|91.1|940|
-|29|GPT-5.6 Sol (high reasoning)|91.0|940|
-|30|Qwen 4 Max (high)|90.8|940|
-|31|GPT-5.4 (high reasoning)|90.6|940|
-|32|GPT-6 Sol (high reasoning)|90.1|940|
-|33|Claude Fable 5.1 (high reasoning)|90.0|940|
-|34|Grok 4.20 Multi-Agent Exp Beta 0304|89.6|940|
-|35|DeepSeek V4 Flash|89.6|940|
-|36|DeepSeek V4.1 Flash (high reasoning)|89.6|940|
-|37|Gemini 3.6 Flash|89.0|940|
-|38|Claude Opus 5.5 (high reasoning)|88.5|940|
-|39|Claude Opus 4.8 (high reasoning)|88.3|940|
-|40|Qwen 3.8 Max|88.3|940|
-|41|Claude Opus 5.5 (medium reasoning)|87.8|940|
-|42|GPT-5.4 (medium reasoning)|87.8|940|
-|43|Grok 4.1 Fast Reasoning|87.4|940|
-|44|Kimi K2.6|87.2|940|
-|45|GPT-6.1 Terra (high reasoning)|86.8|940|
-|46|Grok 4.20 0309 (Reasoning)|85.4|940|
-|47|Qwen 3.7 Max|85.1|940|
-|48|Muse Spark 1.3 (high reasoning)|85.1|940|
-|49|Muse Spark 1.1 (high reasoning)|84.9|940|
-|50|Grok 4.20 Reasoning Exp Beta 0304|83.7|940|
-|51|GPT-5.2 (xhigh reasoning)|83.6|940|
-|52|Tencent Hy4 (high)|83.5|940|
-|53|Gemini 3 Flash Preview|83.1|940|
-|54|Claude Sonnet 4.6 (high reasoning)|80.9|940|
-|55|Claude Sonnet 5.5 (high reasoning)|80.5|940|
-|56|Grok 4.6 (xhigh reasoning)|80.0|940|
-|57|Grok 4.5 (high reasoning)|79.9|940|
-|58|GPT-5.2 Pro|79.3|940|
-|59|Muse Spark 1.2 (high reasoning)|79.2|940|
-|60|Grok 4.6 (high reasoning)|79.0|940|
-|61|GPT-5.6 Terra (high reasoning)|78.4|940|
-|62|Muse Spark Open (high reasoning)|78.4|940|
-|63|GLM-5.1|77.7|940|
-|64|Grok 4.7 (high reasoning)|76.8|940|
-|65|Step 5 Preview (high reasoning)|76.6|940|
-|66|Claude Sonnet 4.6 Thinking 32K|76.4|940|
-|67|Claude Opus 4.6 Thinking 16K|76.4|940|
-|68|Claude Sonnet 5 (high reasoning)|75.1|940|
-|69|GLM-5|74.8|940|
-|70|Qwen 3.7 Plus|74.8|940|
-|71|GLM-5.2 (high reasoning)|74.3|940|
-|72|GLM-5.3 (high reasoning)|74.2|940|
-|73|Qwen 3.6 Max Preview|74.1|940|
-|74|Gemma 4 31B Reasoning|70.6|940|
-|75|Kimi K2.5 Thinking|69.9|940|
-|76|GPT-5.6 Luna (high reasoning)|69.4|940|
-|77|GPT-6 Luna (high reasoning)|68.7|940|
-|78|Tencent Hy4 Preview|68.2|940|
-|79|GPT-5.2 (high reasoning)|68.1|940|
-|80|DeepSeek V4 Pro Preview|67.3|940|
-|81|Claude Haiku 5.5 (high reasoning)|65.7|940|
-|82|MiniMax-M3|65.1|940|
-|83|GPT-5.4 Mini (xhigh reasoning)|61.8|940|
-|84|GPT-5.2 (medium reasoning)|60.6|940|
-|85|Gemini 3.5 Flash-Lite (high reasoning)|60.4|940|
-|86|Qwen 3.6 Plus|60.3|940|
-|87|Qwen3.5-397B-A17B|58.9|940|
-|88|Grok 4.3|55.2|940|
-|89|Qwen3.8-27B|54.5|940|
-|90|GPT-5.2 (low reasoning)|54.2|940|
-|91|Claude Opus 4.5 Thinking 16K|52.5|940|
-|92|Qwen3.5-122B-A10B|51.7|940|
-|93|Claude Opus 4.5 (no reasoning)|49.4|940|
-|94|Claude Sonnet 4.6 Thinking 16K|48.0|940|
-|95|Qwen3.5-27B|47.9|940|
-|96|Claude Sonnet 4.6 (no reasoning)|44.8|940|
-|97|Qwen 3.7 Flash|43.8|940|
-|98|Claude Opus 4.6 (no reasoning)|43.2|940|
-|99|Qwen3.6-35B-A3B|41.6|940|
-|100|Tencent Hy3 (high)|41.2|940|
-|101|Step 3.7 Flash (high reasoning)|39.7|940|
-|102|Claude Opus 4.7 (high reasoning)|39.0|940|
-|103|Claude Sonnet 4.5 Thinking 16K|37.3|940|
-|104|DeepSeek V3.2|36.7|940|
-|105|Claude Sonnet 4.5 (no reasoning)|35.8|940|
-|106|Xiaomi MiMo V2.5 Pro|34.4|940|
-|107|Qwen3 Max (2026-01-23)|30.1|940|
-|108|Step 3.5 Flash|28.4|940|
-|109|ByteDance Seed2.0 Pro|28.4|940|
-|110|MiniMax M3.1 Flash (high reasoning)|28.3|940|
-|111|Mistral Large 4 (high)|27.4|940|
-|112|Xiaomi MiMo V2 Pro|25.8|940|
-|113|MiniMax-M2.7|24.7|940|
-|114|Baidu Ernie 5.1|23.4|940|
-|115|GPT-5.5 (no reasoning)|22.0|940|
-|116|GPT-5.4 (no reasoning)|17.8|940|
-|117|LongCat Flash Thinking|17.7|940|
-|118|Tencent Hy3 Preview|17.2|940|
-|119|MiniMax-M2.5|16.8|940|
-|120|Arcee Trinity Large Thinking|16.5|940|
-|121|Gemma 4 31B IT|15.7|940|
-|122|Nemotron 3 Super|15.4|940|
-|123|MiniMax-M2|14.8|940|
-|124|GPT-5.2 (no reasoning)|14.5|940|
-|125|Claude 4.5 Haiku|14.3|940|
-|126|Mistral Medium 3.5 (high)|12.9|940|
-|127|Grok 4.1 Fast Non-Reasoning|12.3|940|
-|128|Qwen 3 Max Thinking|11.8|940|
-|129|MiniMax-M2.1|11.2|940|
-|130|Claude Opus 4.7 (no reasoning)|10.8|940|
-|131|Baidu Ernie 5.0|10.3|940|
-|132|Grok 4.20 0309 (Non-Reasoning)|8.6|940|
-|133|DeepSeek V3.2 (no reasoning)|8.2|940|
-|134|Gemini 3.1 Flash-Lite Preview|8.2|940|
-|135|Llama 4 Maverick|8.0|940|
-|136|Grok 4.20 Non-Reasoning Exp Beta 0304|7.6|940|
-|137|Mistral Large 3|7.5|940|
-|138|Tencent Hy3 (non-thinking)|6.9|940|
-|139|Mistral Medium 3.1|6.5|940|
-|140|Ling 2.6 1T|4.1|940|
+|4|GPT-6.2 Astra (high reasoning)|98.2|940|
+|5|GPT-6 Astra (xhigh reasoning)|98.1|940|
+|6|GPT-6.1 Sol (max reasoning)|97.8|940|
+|7|GPT-6 Astra (high reasoning)|97.7|940|
+|8|Gemini 3.1 Pro Preview|97.4|940|
+|9|Gemini 3.8 Flash (high reasoning)|97.4|940|
+|10|Claude Fable 5.2 (high reasoning)|97.3|940|
+|11|GPT-5.5 (xhigh reasoning)|96.2|940|
+|12|GPT-6.1 Sol (high reasoning)|95.5|940|
+|13|GPT-5.5 (high reasoning)|95.2|940|
+|14|Gemini 3 Pro Preview|94.4|940|
+|15|Claude Opus 5 (xhigh reasoning)|94.3|940|
+|16|GPT-6.2 Sol (high reasoning)|94.1|940|
+|17|Gemini 3.7 Flash|94.0|940|
+|18|GPT-5.6 Sol (xhigh reasoning)|93.8|940|
+|19|Kimi K3|93.6|940|
+|20|Kimi K3.1 Pro (high reasoning)|93.4|940|
+|21|Muse Wonder 1.0 (high reasoning)|93.4|940|
+|22|DeepSeek V4.1 Flash 1017 (high reasoning)|92.8|940|
+|23|Claude Fable 5 (high reasoning)|92.7|940|
+|24|Gemini 3.5 Flash|92.6|940|
+|25|GPT-5.5 (medium reasoning)|92.4|940|
+|26|Claude Opus 5 (high reasoning)|92.2|940|
+|27|Claude Opus 4.6 (high reasoning)|92.1|940|
+|28|DeepSeek V4 Pro (high reasoning)|91.3|940|
+|29|GPT-5.4 (xhigh reasoning)|91.3|940|
+|30|Claude Opus 4.8 (xhigh reasoning)|91.1|940|
+|31|GPT-5.6 Sol (high reasoning)|91.0|940|
+|32|Qwen 4 Max (high)|90.8|940|
+|33|GPT-5.4 (high reasoning)|90.6|940|
+|34|GPT-6 Sol (high reasoning)|90.1|940|
+|35|Claude Fable 5.1 (high reasoning)|90.0|940|
+|36|Grok 4.20 Multi-Agent Exp Beta 0304|89.6|940|
+|37|DeepSeek V4 Flash|89.6|940|
+|38|DeepSeek V4.1 Flash (high reasoning)|89.6|940|
+|39|Gemini 3.6 Flash|89.0|940|
+|40|Claude Opus 5.5 (high reasoning)|88.5|940|
+|41|Claude Opus 4.8 (high reasoning)|88.3|940|
+|42|Qwen 3.8 Max|88.3|940|
+|43|Claude Opus 5.5 (medium reasoning)|87.8|940|
+|44|GPT-5.4 (medium reasoning)|87.8|940|
+|45|Grok 4.1 Fast Reasoning|87.4|940|
+|46|Kimi K2.6|87.2|940|
+|47|GPT-6.1 Terra (high reasoning)|86.8|940|
+|48|Grok 4.20 0309 (Reasoning)|85.4|940|
+|49|Qwen 3.7 Max|85.1|940|
+|50|Muse Spark 1.3 (high reasoning)|85.1|940|
+|51|Muse Spark 1.1 (high reasoning)|84.9|940|
+|52|Grok 4.20 Reasoning Exp Beta 0304|83.7|940|
+|53|GPT-5.2 (xhigh reasoning)|83.6|940|
+|54|Tencent Hy4 (high)|83.5|940|
+|55|Gemini 3 Flash Preview|83.1|940|
+|56|Claude Sonnet 4.6 (high reasoning)|80.9|940|
+|57|Claude Sonnet 5.5 (high reasoning)|80.5|940|
+|58|Grok 4.6 (xhigh reasoning)|80.0|940|
+|59|Grok 4.5 (high reasoning)|79.9|940|
+|60|GPT-5.2 Pro|79.3|940|
+|61|Muse Spark 1.2 (high reasoning)|79.2|940|
+|62|Grok 4.6 (high reasoning)|79.0|940|
+|63|GPT-5.6 Terra (high reasoning)|78.4|940|
+|64|Muse Spark Open (high reasoning)|78.4|940|
+|65|GLM-5.1|77.7|940|
+|66|ByteDance Seed2.1 Pro|77.5|940|
+|67|Grok 4.7 (high reasoning)|76.8|940|
+|68|Step 5 Preview (high reasoning)|76.6|940|
+|69|Claude Sonnet 4.6 Thinking 32K|76.4|940|
+|70|Claude Opus 4.6 Thinking 16K|76.4|940|
+|71|Claude Sonnet 5 (high reasoning)|75.1|940|
+|72|GLM-5|74.8|940|
+|73|Qwen 3.7 Plus|74.8|940|
+|74|GLM-5.2 (high reasoning)|74.3|940|
+|75|GLM-5.3 (high reasoning)|74.2|940|
+|76|Qwen 3.6 Max Preview|74.1|940|
+|77|Gemma 4 31B Reasoning|70.6|940|
+|78|Kimi K2.5 Thinking|69.9|940|
+|79|GPT-5.6 Luna (high reasoning)|69.4|940|
+|80|GPT-6 Luna (high reasoning)|68.7|940|
+|81|Tencent Hy4 Preview|68.2|940|
+|82|GPT-5.2 (high reasoning)|68.1|940|
+|83|DeepSeek V4 Pro Preview|67.3|940|
+|84|Claude Haiku 5.5 (high reasoning)|65.7|940|
+|85|MiniMax-M3|65.1|940|
+|86|GPT-5.4 Mini (xhigh reasoning)|61.8|940|
+|87|GPT-5.2 (medium reasoning)|60.6|940|
+|88|Gemini 3.5 Flash-Lite (high reasoning)|60.4|940|
+|89|Qwen 3.6 Plus|60.3|940|
+|90|Qwen3.5-397B-A17B|58.9|940|
+|91|Grok 4.3|55.2|940|
+|92|Qwen3.8-27B|54.5|940|
+|93|GPT-5.2 (low reasoning)|54.2|940|
+|94|Claude Opus 4.5 Thinking 16K|52.5|940|
+|95|Qwen3.5-122B-A10B|51.7|940|
+|96|Claude Opus 4.5 (no reasoning)|49.4|940|
+|97|Claude Sonnet 4.6 Thinking 16K|48.0|940|
+|98|Qwen3.5-27B|47.9|940|
+|99|Claude Sonnet 4.6 (no reasoning)|44.8|940|
+|100|Qwen 3.7 Flash|43.8|940|
+|101|Claude Opus 4.6 (no reasoning)|43.2|940|
+|102|Qwen3.6-35B-A3B|41.6|940|
+|103|Tencent Hy3 (high)|41.2|940|
+|104|Step 3.7 Flash (high reasoning)|39.7|940|
+|105|Claude Opus 4.7 (high reasoning)|39.0|940|
+|106|Claude Sonnet 4.5 Thinking 16K|37.3|940|
+|107|DeepSeek V3.2|36.7|940|
+|108|Claude Sonnet 4.5 (no reasoning)|35.8|940|
+|109|Xiaomi MiMo V2.5 Pro|34.4|940|
+|110|Qwen3 Max (2026-01-23)|30.1|940|
+|111|Step 3.5 Flash|28.4|940|
+|112|ByteDance Seed2.0 Pro|28.4|940|
+|113|MiniMax M3.1 Flash (high reasoning)|28.3|940|
+|114|Mistral Large 4 (high)|27.4|940|
+|115|Xiaomi MiMo V2 Pro|25.8|940|
+|116|MiniMax-M2.7|24.7|940|
+|117|Baidu Ernie 5.1|23.4|940|
+|118|GPT-5.5 (no reasoning)|22.0|940|
+|119|GPT-5.4 (no reasoning)|17.8|940|
+|120|LongCat Flash Thinking|17.7|940|
+|121|Tencent Hy3 Preview|17.2|940|
+|122|MiniMax-M2.5|16.8|940|
+|123|Arcee Trinity Large Thinking|16.5|940|
+|124|Gemma 4 31B IT|15.7|940|
+|125|Nemotron 3 Super|15.4|940|
+|126|MiniMax-M2|14.8|940|
+|127|GPT-5.2 (no reasoning)|14.5|940|
+|128|Claude 4.5 Haiku|14.3|940|
+|129|Mistral Medium 3.5 (high)|12.9|940|
+|130|Grok 4.1 Fast Non-Reasoning|12.3|940|
+|131|Qwen 3 Max Thinking|11.8|940|
+|132|MiniMax-M2.1|11.2|940|
+|133|Claude Opus 4.7 (no reasoning)|10.8|940|
+|134|Baidu Ernie 5.0|10.3|940|
+|135|Grok 4.20 0309 (Non-Reasoning)|8.6|940|
+|136|DeepSeek V3.2 (no reasoning)|8.2|940|
+|137|Gemini 3.1 Flash-Lite Preview|8.2|940|
+|138|Llama 4 Maverick|8.0|940|
+|139|Grok 4.20 Non-Reasoning Exp Beta 0304|7.6|940|
+|140|Mistral Large 3|7.5|940|
+|141|Tencent Hy3 (non-thinking)|6.9|940|
+|142|Mistral Medium 3.1|6.5|940|
+|143|Ling 2.6 1T|4.1|940|
 
 ---
 ## Model comparison scatter charts
+
+### GPT-6.2 Astra and Sol vs. their predecessors
+
+At high reasoning effort, GPT-6.2 Astra improves by 0.51 percentage points
+over GPT-6 Astra and fully solves eight more puzzles. GPT-6.2 Sol scores
+1.37 points below GPT-6.1 Sol and fully solves 20 fewer puzzles. The newest
+100 puzzles show the same direction for each comparison.
+
+|Model (high reasoning)|Score, all 940|Fully solved|Score, newest 100|Standard-price cost/puzzle|
+|---|---:|---:|---:|---:|
+|GPT-6 Astra|97.73%|901|97.81%|$0.02807|
+|GPT-6.2 Astra|98.23%|909|98.25%|$0.01462|
+|GPT-6.1 Sol|95.49%|861|95.63%|$0.00686|
+|GPT-6.2 Sol|94.12%|841|92.94%|$0.00507|
+
+Counting unsolved lines (groups) across all 940 puzzles, Astra 6.2 misses
+**42**, versus **54** for GPT-6 Astra. Sol 6.2 misses **144**, versus **108**
+for GPT-6.1 Sol. For every 100 predecessor mistakes, that is **77.8** for
+Astra (22.2% fewer) and **133.3** for Sol (33.3% more). Each run has 3,760
+lines; the comparison is `100 × new unsolved lines / predecessor unsolved lines`.
+
+All cost comparisons use standard list prices for every model. Each GPT estimate
+covers 940 saved answers. Cost per puzzle falls 47.9% for Astra and
+26.0% for Sol. The estimated run totals fall from $26.39 to $13.74
+for Astra, and from $6.45 to $4.77 for Sol. These estimates apply the
+same pricing basis regardless of Batch, Flex, priority, or fast execution.
+They are token-usage estimates rather than billed totals and exclude failed
+requests. Execution-tier costs are retained separately in the run audits.
+
+GPT-6.2 Astra, GPT-6.2 Sol, and Seed2.1 Pro are the highlighted models. Orange
+arrows connect Astra and Sol to their high-effort predecessors in the cost chart.
+
+### Seed2.1 Pro vs. Seed2.0 Pro
+
+ByteDance Seed2.1 Pro completes all 940 puzzles, improving the score by
+49.12 percentage points over Seed2.0 Pro and fully solving 483 more puzzles.
+
+|Metric|Seed2.0 Pro|Seed2.1 Pro|
+|---|---:|---:|
+|Score, all 940 puzzles|28.36%|77.49%|
+|Fully solved, all 940 puzzles|122|605|
+|Score, newest 100 puzzles|28.00%|77.38%|
+|Fully solved, newest 100 puzzles|13|60|
+|Estimated cost per puzzle|$0.00755|$0.21437|
+|Estimated total cost|$7.10|$201.51|
+
+The estimated cost per puzzle is 28.4 times higher. Seed2.1 Pro costs use
+recorded usage for all 940 saved answers. Seed2.0 Pro has exact usage for 938
+answers; its estimate covers the remaining two using a 50-puzzle cost sample.
+These are usage-based estimates, not billed totals. Seed2.1 Pro's failed
+provider streams and interrupted attempts have unavailable usage and are
+excluded from its cost estimate.
 
 ### Qwen 4 Max vs. Qwen 3.8 Max
 
@@ -196,9 +251,8 @@ totals are $189.82 and $26.38, respectively; these are not billed totals.
 Refusals count as zero in the 940-puzzle scores and are excluded from these
 cost estimates. Qwen 4 Max costs about one-seventh as much per priced response,
 reflecting both fewer output tokens and lower registered token prices: $1.413 input and
-$4.24 output per million tokens, versus $2.00 input and $6.00 output. Orange arrows
-connect Qwen 3.8 Max to Qwen 4 Max in the cost and introduction-date charts;
-Qwen 4 Max is the only highlighted model.
+$4.24 output per million tokens, versus $2.00 input and $6.00 output.
+Qwen 3.8 Max is retained in the leaderboard history and suppressed from current charts.
 
 ### Model family progress
 
@@ -220,7 +274,8 @@ same shared 601-puzzle comparison set.
 
 This chart compares estimated average cost per puzzle with the full
 940-puzzle benchmark score for current full-coverage models. Costs use recorded
-token usage and comparable registered display/list prices, not billed totals.
+token usage and standard list prices for every model, regardless of the
+execution tier. They are estimates rather than billed totals.
 Time-varying prices are averaged over their full pricing cycle.
 
 ![Cost vs. performance](images/model_cost_vs_performance_highlighted.png)
@@ -253,142 +308,145 @@ This view applies the same scoring rule to the newest 100 puzzles for every full
 |2|GPT-6 Astra (xhigh reasoning)|98.7|100|
 |3|Gemini 4 Argon (high reasoning)|98.7|100|
 |4|GPT-6.1 Sol (max reasoning)|98.7|100|
-|5|GPT-6 Astra (max reasoning)|97.9|100|
-|6|GPT-6 Astra (high reasoning)|97.8|100|
-|7|Claude Fable 5.2 (high reasoning)|96.9|100|
-|8|Gemini 3.8 Flash (high reasoning)|96.5|100|
-|9|Gemini 3.1 Pro Preview|96.1|100|
-|10|GPT-5.5 (xhigh reasoning)|96.1|100|
-|11|GPT-6.1 Sol (high reasoning)|95.6|100|
-|12|GPT-5.5 (high reasoning)|95.2|100|
-|13|Claude Opus 5 (xhigh reasoning)|94.5|100|
-|14|GPT-5.6 Sol (xhigh reasoning)|94.4|100|
-|15|Claude Fable 5 (high reasoning)|93.6|100|
-|16|GPT-5.4 (xhigh reasoning)|93.4|100|
-|17|Muse Wonder 1.0 (high reasoning)|92.8|100|
-|18|GPT-5.6 Sol (high reasoning)|92.7|100|
-|19|Gemini 3 Pro Preview|92.3|100|
-|20|Gemini 3.7 Flash|92.2|100|
-|21|Claude Opus 4.8 (high reasoning)|92.1|100|
-|22|Kimi K3|92.1|100|
-|23|Claude Opus 5 (high reasoning)|91.9|100|
-|24|DeepSeek V4.1 Flash 1017 (high reasoning)|91.3|100|
-|25|Gemini 3.5 Flash|90.8|100|
-|26|Claude Opus 4.8 (xhigh reasoning)|90.6|100|
-|27|Claude Opus 5.5 (high reasoning)|90.6|100|
-|28|Kimi K3.1 Pro (high reasoning)|90.2|100|
-|29|GPT-6.1 Terra (high reasoning)|90.2|100|
-|30|Qwen 3.8 Max|88.9|100|
-|31|GPT-6 Sol (high reasoning)|88.8|100|
-|32|Claude Fable 5.1 (high reasoning)|88.5|100|
-|33|Gemini 3.6 Flash|88.5|100|
-|34|DeepSeek V4 Pro (high reasoning)|88.4|100|
-|35|GPT-5.4 (high reasoning)|88.4|100|
-|36|Claude Opus 4.6 (high reasoning)|88.1|100|
-|37|GPT-5.5 (medium reasoning)|87.3|100|
-|38|DeepSeek V4 Flash|87.2|100|
-|39|Qwen 4 Max (high)|86.6|100|
-|40|DeepSeek V4.1 Flash (high reasoning)|86.1|100|
-|41|Tencent Hy4 (high)|86.0|100|
-|42|Grok 4.20 Multi-Agent Exp Beta 0304|85.2|100|
-|43|Muse Spark 1.1 (high reasoning)|84.8|100|
-|44|GPT-5.4 (medium reasoning)|84.4|100|
-|45|Muse Spark 1.3 (high reasoning)|83.6|100|
-|46|Claude Opus 5.5 (medium reasoning)|83.4|100|
-|47|Kimi K2.6|80.2|100|
-|48|Claude Sonnet 5.5 (high reasoning)|79.1|100|
-|49|Qwen 3.7 Max|78.9|100|
-|50|GPT-5.2 (xhigh reasoning)|78.6|100|
-|51|Claude Opus 4.6 Thinking 16K|78.4|100|
-|52|GLM-5.1|77.6|100|
-|53|Grok 4.20 0309 (Reasoning)|77.4|100|
-|54|Muse Spark 1.2 (high reasoning)|77.2|100|
-|55|Grok 4.5 (high reasoning)|77.2|100|
-|56|Grok 4.20 Reasoning Exp Beta 0304|77.1|100|
-|57|Grok 4.6 (xhigh reasoning)|77.1|100|
-|58|Step 5 Preview (high reasoning)|75.4|100|
-|59|Grok 4.1 Fast Reasoning|75.2|100|
-|60|Grok 4.6 (high reasoning)|74.6|100|
-|61|Muse Spark Open (high reasoning)|74.3|100|
-|62|Claude Sonnet 4.6 (high reasoning)|74.1|100|
-|63|GLM-5.2 (high reasoning)|72.8|100|
-|64|Grok 4.7 (high reasoning)|72.8|100|
-|65|GPT-5.6 Terra (high reasoning)|72.4|100|
-|66|GLM-5.3 (high reasoning)|72.2|100|
-|67|GPT-5.2 Pro|71.8|100|
-|68|Qwen 3.7 Plus|70.9|100|
-|69|Claude Sonnet 5 (high reasoning)|69.9|100|
-|70|Claude Sonnet 4.6 Thinking 32K|69.4|100|
-|71|Qwen 3.6 Max Preview|69.4|100|
-|72|GLM-5|67.5|100|
-|73|GPT-5.2 (high reasoning)|66.2|100|
-|74|GPT-5.6 Luna (high reasoning)|66.1|100|
-|75|Gemma 4 31B Reasoning|65.9|100|
-|76|GPT-6 Luna (high reasoning)|65.8|100|
-|77|Claude Haiku 5.5 (high reasoning)|64.9|100|
-|78|Tencent Hy4 Preview|64.2|100|
-|79|Kimi K2.5 Thinking|63.7|100|
-|80|MiniMax-M3|63.4|100|
-|81|GPT-5.4 Mini (xhigh reasoning)|62.5|100|
-|82|Gemini 3 Flash Preview|61.8|100|
-|83|Gemini 3.5 Flash-Lite (high reasoning)|60.7|100|
-|84|DeepSeek V4 Pro Preview|59.9|100|
-|85|Qwen 3.6 Plus|57.1|100|
-|86|GPT-5.2 (medium reasoning)|55.8|100|
-|87|Qwen3.8-27B|52.0|100|
-|88|Claude Opus 4.5 Thinking 16K|51.6|100|
-|89|Qwen3.5-397B-A17B|47.1|100|
-|90|GPT-5.2 (low reasoning)|46.4|100|
-|91|Grok 4.3|45.6|100|
-|92|Qwen3.5-122B-A10B|45.4|100|
-|93|Claude Sonnet 4.6 Thinking 16K|45.3|100|
-|94|Qwen3.5-27B|44.6|100|
-|95|Claude Sonnet 4.5 (no reasoning)|43.6|100|
-|96|Claude Sonnet 4.5 Thinking 16K|43.0|100|
-|97|Claude Opus 4.5 (no reasoning)|42.0|100|
-|98|Tencent Hy3 (high)|40.6|100|
-|99|Claude Sonnet 4.6 (no reasoning)|40.4|100|
-|100|Claude Opus 4.7 (high reasoning)|39.3|100|
-|101|Claude 4.5 Haiku|37.5|100|
-|102|Claude Opus 4.6 (no reasoning)|37.2|100|
-|103|Qwen3.6-35B-A3B|35.5|100|
-|104|Qwen 3.7 Flash|35.4|100|
-|105|Step 3.7 Flash (high reasoning)|34.2|100|
-|106|Qwen3 Max (2026-01-23)|31.6|100|
-|107|Xiaomi MiMo V2.5 Pro|31.4|100|
-|108|DeepSeek V3.2|29.7|100|
-|109|MiniMax M3.1 Flash (high reasoning)|29.2|100|
-|110|MiniMax-M2.7|28.6|100|
-|111|ByteDance Seed2.0 Pro|28.0|100|
-|112|Mistral Large 4 (high)|27.2|100|
-|113|Step 3.5 Flash|22.8|100|
-|114|Xiaomi MiMo V2 Pro|22.0|100|
-|115|Baidu Ernie 5.1|20.0|100|
-|116|GPT-5.4 (no reasoning)|19.8|100|
-|117|GPT-5.5 (no reasoning)|19.1|100|
-|118|Tencent Hy3 Preview|18.9|100|
-|119|LongCat Flash Thinking|17.3|100|
-|120|Arcee Trinity Large Thinking|16.9|100|
-|121|MiniMax-M2.5|16.2|100|
-|122|GPT-5.2 (no reasoning)|15.8|100|
-|123|Gemma 4 31B IT|15.7|100|
-|124|Mistral Medium 3.5 (high)|14.6|100|
-|125|MiniMax-M2.1|12.8|100|
-|126|Nemotron 3 Super|12.4|100|
-|127|Claude Opus 4.7 (no reasoning)|11.9|100|
-|128|MiniMax-M2|11.9|100|
-|129|Qwen 3 Max Thinking|11.6|100|
-|130|Baidu Ernie 5.0|10.7|100|
-|131|Grok 4.20 0309 (Non-Reasoning)|9.4|100|
-|132|Mistral Large 3|8.9|100|
-|133|Gemini 3.1 Flash-Lite Preview|8.9|100|
-|134|Grok 4.1 Fast Non-Reasoning|8.8|100|
-|135|Tencent Hy3 (non-thinking)|8.2|100|
-|136|Llama 4 Maverick|8.1|100|
-|137|Grok 4.20 Non-Reasoning Exp Beta 0304|7.7|100|
-|138|Mistral Medium 3.1|7.1|100|
-|139|DeepSeek V3.2 (no reasoning)|6.8|100|
-|140|Ling 2.6 1T|5.5|100|
+|5|GPT-6.2 Astra (high reasoning)|98.2|100|
+|6|GPT-6 Astra (max reasoning)|97.9|100|
+|7|GPT-6 Astra (high reasoning)|97.8|100|
+|8|Claude Fable 5.2 (high reasoning)|96.9|100|
+|9|Gemini 3.8 Flash (high reasoning)|96.5|100|
+|10|Gemini 3.1 Pro Preview|96.1|100|
+|11|GPT-5.5 (xhigh reasoning)|96.1|100|
+|12|GPT-6.1 Sol (high reasoning)|95.6|100|
+|13|GPT-5.5 (high reasoning)|95.2|100|
+|14|Claude Opus 5 (xhigh reasoning)|94.5|100|
+|15|GPT-5.6 Sol (xhigh reasoning)|94.4|100|
+|16|Claude Fable 5 (high reasoning)|93.6|100|
+|17|GPT-5.4 (xhigh reasoning)|93.4|100|
+|18|GPT-6.2 Sol (high reasoning)|92.9|100|
+|19|Muse Wonder 1.0 (high reasoning)|92.8|100|
+|20|GPT-5.6 Sol (high reasoning)|92.7|100|
+|21|Gemini 3 Pro Preview|92.3|100|
+|22|Gemini 3.7 Flash|92.2|100|
+|23|Claude Opus 4.8 (high reasoning)|92.1|100|
+|24|Kimi K3|92.1|100|
+|25|Claude Opus 5 (high reasoning)|91.9|100|
+|26|DeepSeek V4.1 Flash 1017 (high reasoning)|91.3|100|
+|27|Gemini 3.5 Flash|90.8|100|
+|28|Claude Opus 4.8 (xhigh reasoning)|90.6|100|
+|29|Claude Opus 5.5 (high reasoning)|90.6|100|
+|30|Kimi K3.1 Pro (high reasoning)|90.2|100|
+|31|GPT-6.1 Terra (high reasoning)|90.2|100|
+|32|Qwen 3.8 Max|88.9|100|
+|33|GPT-6 Sol (high reasoning)|88.8|100|
+|34|Claude Fable 5.1 (high reasoning)|88.5|100|
+|35|Gemini 3.6 Flash|88.5|100|
+|36|DeepSeek V4 Pro (high reasoning)|88.4|100|
+|37|GPT-5.4 (high reasoning)|88.4|100|
+|38|Claude Opus 4.6 (high reasoning)|88.1|100|
+|39|GPT-5.5 (medium reasoning)|87.3|100|
+|40|DeepSeek V4 Flash|87.2|100|
+|41|Qwen 4 Max (high)|86.6|100|
+|42|DeepSeek V4.1 Flash (high reasoning)|86.1|100|
+|43|Tencent Hy4 (high)|86.0|100|
+|44|Grok 4.20 Multi-Agent Exp Beta 0304|85.2|100|
+|45|Muse Spark 1.1 (high reasoning)|84.8|100|
+|46|GPT-5.4 (medium reasoning)|84.4|100|
+|47|Muse Spark 1.3 (high reasoning)|83.6|100|
+|48|Claude Opus 5.5 (medium reasoning)|83.4|100|
+|49|Kimi K2.6|80.2|100|
+|50|Claude Sonnet 5.5 (high reasoning)|79.1|100|
+|51|Qwen 3.7 Max|78.9|100|
+|52|GPT-5.2 (xhigh reasoning)|78.6|100|
+|53|Claude Opus 4.6 Thinking 16K|78.4|100|
+|54|GLM-5.1|77.6|100|
+|55|Grok 4.20 0309 (Reasoning)|77.4|100|
+|56|ByteDance Seed2.1 Pro|77.4|100|
+|57|Muse Spark 1.2 (high reasoning)|77.2|100|
+|58|Grok 4.5 (high reasoning)|77.2|100|
+|59|Grok 4.20 Reasoning Exp Beta 0304|77.1|100|
+|60|Grok 4.6 (xhigh reasoning)|77.1|100|
+|61|Step 5 Preview (high reasoning)|75.4|100|
+|62|Grok 4.1 Fast Reasoning|75.2|100|
+|63|Grok 4.6 (high reasoning)|74.6|100|
+|64|Muse Spark Open (high reasoning)|74.3|100|
+|65|Claude Sonnet 4.6 (high reasoning)|74.1|100|
+|66|GLM-5.2 (high reasoning)|72.8|100|
+|67|Grok 4.7 (high reasoning)|72.8|100|
+|68|GPT-5.6 Terra (high reasoning)|72.4|100|
+|69|GLM-5.3 (high reasoning)|72.2|100|
+|70|GPT-5.2 Pro|71.8|100|
+|71|Qwen 3.7 Plus|70.9|100|
+|72|Claude Sonnet 5 (high reasoning)|69.9|100|
+|73|Claude Sonnet 4.6 Thinking 32K|69.4|100|
+|74|Qwen 3.6 Max Preview|69.4|100|
+|75|GLM-5|67.5|100|
+|76|GPT-5.2 (high reasoning)|66.2|100|
+|77|GPT-5.6 Luna (high reasoning)|66.1|100|
+|78|Gemma 4 31B Reasoning|65.9|100|
+|79|GPT-6 Luna (high reasoning)|65.8|100|
+|80|Claude Haiku 5.5 (high reasoning)|64.9|100|
+|81|Tencent Hy4 Preview|64.2|100|
+|82|Kimi K2.5 Thinking|63.7|100|
+|83|MiniMax-M3|63.4|100|
+|84|GPT-5.4 Mini (xhigh reasoning)|62.5|100|
+|85|Gemini 3 Flash Preview|61.8|100|
+|86|Gemini 3.5 Flash-Lite (high reasoning)|60.7|100|
+|87|DeepSeek V4 Pro Preview|59.9|100|
+|88|Qwen 3.6 Plus|57.1|100|
+|89|GPT-5.2 (medium reasoning)|55.8|100|
+|90|Qwen3.8-27B|52.0|100|
+|91|Claude Opus 4.5 Thinking 16K|51.6|100|
+|92|Qwen3.5-397B-A17B|47.1|100|
+|93|GPT-5.2 (low reasoning)|46.4|100|
+|94|Grok 4.3|45.6|100|
+|95|Qwen3.5-122B-A10B|45.4|100|
+|96|Claude Sonnet 4.6 Thinking 16K|45.3|100|
+|97|Qwen3.5-27B|44.6|100|
+|98|Claude Sonnet 4.5 (no reasoning)|43.6|100|
+|99|Claude Sonnet 4.5 Thinking 16K|43.0|100|
+|100|Claude Opus 4.5 (no reasoning)|42.0|100|
+|101|Tencent Hy3 (high)|40.6|100|
+|102|Claude Sonnet 4.6 (no reasoning)|40.4|100|
+|103|Claude Opus 4.7 (high reasoning)|39.3|100|
+|104|Claude 4.5 Haiku|37.5|100|
+|105|Claude Opus 4.6 (no reasoning)|37.2|100|
+|106|Qwen3.6-35B-A3B|35.5|100|
+|107|Qwen 3.7 Flash|35.4|100|
+|108|Step 3.7 Flash (high reasoning)|34.2|100|
+|109|Qwen3 Max (2026-01-23)|31.6|100|
+|110|Xiaomi MiMo V2.5 Pro|31.4|100|
+|111|DeepSeek V3.2|29.7|100|
+|112|MiniMax M3.1 Flash (high reasoning)|29.2|100|
+|113|MiniMax-M2.7|28.6|100|
+|114|ByteDance Seed2.0 Pro|28.0|100|
+|115|Mistral Large 4 (high)|27.2|100|
+|116|Step 3.5 Flash|22.8|100|
+|117|Xiaomi MiMo V2 Pro|22.0|100|
+|118|Baidu Ernie 5.1|20.0|100|
+|119|GPT-5.4 (no reasoning)|19.8|100|
+|120|GPT-5.5 (no reasoning)|19.1|100|
+|121|Tencent Hy3 Preview|18.9|100|
+|122|LongCat Flash Thinking|17.3|100|
+|123|Arcee Trinity Large Thinking|16.9|100|
+|124|MiniMax-M2.5|16.2|100|
+|125|GPT-5.2 (no reasoning)|15.8|100|
+|126|Gemma 4 31B IT|15.7|100|
+|127|Mistral Medium 3.5 (high)|14.6|100|
+|128|MiniMax-M2.1|12.8|100|
+|129|Nemotron 3 Super|12.4|100|
+|130|Claude Opus 4.7 (no reasoning)|11.9|100|
+|131|MiniMax-M2|11.9|100|
+|132|Qwen 3 Max Thinking|11.6|100|
+|133|Baidu Ernie 5.0|10.7|100|
+|134|Grok 4.20 0309 (Non-Reasoning)|9.4|100|
+|135|Mistral Large 3|8.9|100|
+|136|Gemini 3.1 Flash-Lite Preview|8.9|100|
+|137|Grok 4.1 Fast Non-Reasoning|8.8|100|
+|138|Tencent Hy3 (non-thinking)|8.2|100|
+|139|Llama 4 Maverick|8.1|100|
+|140|Grok 4.20 Non-Reasoning Exp Beta 0304|7.7|100|
+|141|Mistral Medium 3.1|7.1|100|
+|142|DeepSeek V3.2 (no reasoning)|6.8|100|
+|143|Ling 2.6 1T|5.5|100|
 
 ---
 # Humans vs. LLMs
@@ -455,120 +513,119 @@ These legacy or incomplete runs use the same scoring rule but are excluded from 
 
 |Rank|Model|Score %|#Puzzles (window)|Total Coverage|
 |---:|-----|----------------:|-----------------:|-------------:|
-|1|ByteDance Seed2.1 Pro|97.8|101|101/940|
-|2|GLM-5.2 (max reasoning)|89.5|194|194/940|
-|3|Sherlock Think Alpha|89.0|759|759/940|
-|4|Qwen 3.8 Max 0902|88.8|919|919/940|
-|5|Grok 4 Fast Reasoning|88.0|759|759/940|
-|6|Inkling (high reasoning)|88.0|136|136/940|
-|7|Grok 4|87.8|759|759/940|
-|8|Sonoma Sky Alpha|86.5|759|759/940|
-|9|Xiaomi MiMo V2.6 Pro (thinking)|84.0|27|27/940|
-|10|o3-pro (medium reasoning)|81.7|759|759/940|
-|11|GPT-5 Pro|77.0|759|759/940|
-|12|GLM-5.2 (max reasoning)|75.9|211|211/940|
-|13|o1-pro (medium reasoning)|74.6|651|651/940|
-|14|o3 (high reasoning)|70.5|759|759/940|
-|15|GPT-5 (high reasoning)|67.8|759|759/940|
-|16|o4-mini (high reasoning)|64.0|759|759/940|
-|17|Ox Alpha (max reasoning)|63.5|217|217/940|
-|18|o3 (medium reasoning)|63.0|759|759/940|
-|19|GPT-5 (medium reasoning)|61.8|759|759/940|
-|20|o1 (medium reasoning)|60.1|651|651/940|
-|21|GPT-5.1 (high reasoning)|59.7|759|759/940|
-|22|o4-mini (medium reasoning)|58.4|651|651/940|
-|23|GPT-5 mini (medium reasoning)|54.9|759|759/940|
-|24|GPT-5 (low reasoning)|53.2|759|759/940|
-|25|GPT-5.1 (medium reasoning)|51.2|759|759/940|
-|26|o3-mini (high reasoning)|49.0|651|651/940|
-|27|GLM-4.7|47.2|767|767/940|
-|28|Claude Opus 4.1 Thinking 16K|45.3|759|759/940|
-|29|Gemini 2.5 Pro|44.9|759|759/940|
-|30|Kimi K2 Thinking 64K|44.6|924|924/940|
-|31|DeepSeek V4 Flash (thinking)|43.9|759|759/940|
-|32|o3-mini (medium reasoning)|40.1|651|651/940|
-|33|Gemini 2.5 Pro Exp 03-25|40.1|651|651/940|
-|34|Qwen 3 235B A22B|39.8|759|759/940|
-|35|Claude Opus 4 Thinking 16K|35.2|759|759/940|
-|36|DeepSeek R1 05/28|33.6|759|759/940|
-|37|Qwen 3 235B A22B 25-07 Think|31.6|759|759/940|
-|38|Gemini 2.5 Pro Preview 05-06|28.1|651|651/940|
-|39|Claude Sonnet 4 Thinking 16K|26.4|759|759/940|
-|40|Claude Sonnet 4 Thinking 64K|26.0|651|651/940|
-|41|DeepSeek R1|24.4|651|651/940|
-|42|GPT-OSS-120B|24.1|759|759/940|
-|43|Claude Opus 4.1 (no reasoning)|21.7|759|759/940|
-|44|Qwen 3 30B A3B|21.2|759|759/940|
-|45|Qwen 3 32B|21.0|759|759/940|
-|46|Qwen 3 30B A3B 25-07 Thinking|20.9|759|759/940|
-|47|Claude 3.7 Sonnet Thinking 16K|19.7|651|651/940|
-|48|Claude Opus 4 (no reasoning)|19.7|759|759/940|
-|49|GPT-4.5 Preview|19.2|651|651/940|
-|50|Qwen 3 Next 80B A3B Thinking|18.5|759|759/940|
-|51|Qwen QwQ-32B 16K|17.8|651|651/940|
-|52|Grok 3 Mini Beta (high)|17.2|759|759/940|
-|53|GLM-4.5|17.0|759|759/940|
-|54|o1-mini|14.1|651|651/940|
-|55|Grok 3 Mini Beta (low)|14.0|651|651/940|
-|56|GPT-5 (minimal reasoning)|13.9|759|759/940|
-|57|Claude Sonnet 4 (no reasoning)|13.7|759|759/940|
-|58|Claude Opus 4.6 Thinking 32K|13.6|98|98/940|
-|59|Cohere Command A Reasoning|13.3|759|759/940|
-|60|Gemini 2.5 Flash|12.8|759|759/940|
-|61|Grok 4 Fast Non-Reasoning|12.5|759|759/940|
-|62|GLM-4.6|12.5|759|759/940|
-|63|Sherlock Dash Alpha|12.2|759|759/940|
-|64|Quasar Alpha|12.1|651|651/940|
-|65|Gemini 2.0 Flash Think Exp 01-21|12.0|649|649/940|
-|66|Cohere Command A+|12.0|898|898/940|
-|67|GPT-4o Mar 2025|11.8|759|759/940|
-|68|Qwen 3 Max Preview|11.6|759|759/940|
-|69|Gemini 2.0 Pro Exp 02-05|11.2|651|651/940|
-|70|Kimi K2-0905|11.0|759|759/940|
-|71|GPT-4.1|10.8|759|759/940|
-|72|Sonoma Dusk Alpha|10.6|759|759/940|
-|73|MiniMax-M1|10.5|688|688/940|
-|74|GPT-4o Feb 2025|10.3|651|651/940|
-|75|Polaris Alpha|10.2|759|759/940|
-|76|DeepSeek V3.1 Non-Think|10.1|759|759/940|
-|77|GPT-5.1 (no reasoning)|10.0|759|759/940|
-|78|Grok 3 Beta (no reasoning)|9.0|759|759/940|
-|79|Kimi K2|8.9|759|759/940|
-|80|Claude 3.7 Sonnet|8.7|651|651/940|
-|81|Gemini 1.5 Pro (Sept)|8.7|601|601/940|
-|82|Qwen 3 235B A22B 25-07 Instruct|8.6|759|759/940|
-|83|GPT-4o 2024-11-20|8.6|601|601/940|
-|84|Grok 2 12-12|8.5|651|651/940|
-|85|Gemini 2.0 Flash|8.3|651|651/940|
-|86|Claude 3 Opus|8.2|650|650/940|
-|87|Claude 3.5 Sonnet 2024-10-22|8.1|651|651/940|
-|88|GPT-4o 2024-08-06|7.6|601|601/940|
-|89|Llama 4 Scout|7.6|759|759/940|
-|90|Qwen 2.5 Max|7.6|651|651/940|
-|91|DeepSeek V3-0324|7.4|759|759/940|
-|92|Llama 3.1 405B|6.7|651|651/940|
-|93|Baidu Ernie 4.5 300B A47B|6.5|759|759/940|
-|94|DeepSeek V4 Flash|6.2|651|651/940|
-|95|GPT-4.1 mini|6.1|759|759/940|
-|96|Llama 3.3 70B|5.9|651|651/940|
-|97|MiniMax-Text-01|5.9|759|759/940|
-|98|Mistral Medium 3.1|5.5|759|759/940|
-|99|LongCat Flash|5.2|660|660/940|
-|100|Cohere Command A|5.0|759|759/940|
-|101|Mistral Large 3|4.8|759|759/940|
-|102|Mistral Small 3.2|4.3|759|759/940|
-|103|Gemma 2 27B|4.3|651|651/940|
-|104|Mistral Small 3.1|4.2|651|651/940|
-|105|Gemma 3 27B|4.2|759|759/940|
-|106|Amazon Nova Pro|4.1|759|759/940|
-|107|Qwen 2.5 72B|4.0|759|759/940|
-|108|Claude 3.5 Haiku|3.8|759|759/940|
-|109|Microsoft Phi-4|3.4|759|759/940|
-|110|GPT-4o mini|3.4|759|759/940|
-|111|Mistral Small 3|3.0|601|601/940|
-|112|GPT-4.1 nano|2.8|759|759/940|
-|113|GLM4-32B-0414|2.7|759|759/940|
-|114|Claude 3 Haiku|0.7|601|601/940|
+|1|GLM-5.2 (max reasoning)|89.5|194|194/940|
+|2|Sherlock Think Alpha|89.0|759|759/940|
+|3|Qwen 3.8 Max 0902|88.8|919|919/940|
+|4|Grok 4 Fast Reasoning|88.0|759|759/940|
+|5|Inkling (high reasoning)|88.0|136|136/940|
+|6|Grok 4|87.8|759|759/940|
+|7|Sonoma Sky Alpha|86.5|759|759/940|
+|8|Xiaomi MiMo V2.6 Pro (thinking)|84.0|27|27/940|
+|9|o3-pro (medium reasoning)|81.7|759|759/940|
+|10|GPT-5 Pro|77.0|759|759/940|
+|11|GLM-5.2 (max reasoning)|75.9|211|211/940|
+|12|o1-pro (medium reasoning)|74.6|651|651/940|
+|13|o3 (high reasoning)|70.5|759|759/940|
+|14|GPT-5 (high reasoning)|67.8|759|759/940|
+|15|o4-mini (high reasoning)|64.0|759|759/940|
+|16|Ox Alpha (max reasoning)|63.5|217|217/940|
+|17|o3 (medium reasoning)|63.0|759|759/940|
+|18|GPT-5 (medium reasoning)|61.8|759|759/940|
+|19|o1 (medium reasoning)|60.1|651|651/940|
+|20|GPT-5.1 (high reasoning)|59.7|759|759/940|
+|21|o4-mini (medium reasoning)|58.4|651|651/940|
+|22|GPT-5 mini (medium reasoning)|54.9|759|759/940|
+|23|GPT-5 (low reasoning)|53.2|759|759/940|
+|24|GPT-5.1 (medium reasoning)|51.2|759|759/940|
+|25|o3-mini (high reasoning)|49.0|651|651/940|
+|26|GLM-4.7|47.2|767|767/940|
+|27|Claude Opus 4.1 Thinking 16K|45.3|759|759/940|
+|28|Gemini 2.5 Pro|44.9|759|759/940|
+|29|Kimi K2 Thinking 64K|44.6|924|924/940|
+|30|DeepSeek V4 Flash (thinking)|43.9|759|759/940|
+|31|o3-mini (medium reasoning)|40.1|651|651/940|
+|32|Gemini 2.5 Pro Exp 03-25|40.1|651|651/940|
+|33|Qwen 3 235B A22B|39.8|759|759/940|
+|34|Claude Opus 4 Thinking 16K|35.2|759|759/940|
+|35|DeepSeek R1 05/28|33.6|759|759/940|
+|36|Qwen 3 235B A22B 25-07 Think|31.6|759|759/940|
+|37|Gemini 2.5 Pro Preview 05-06|28.1|651|651/940|
+|38|Claude Sonnet 4 Thinking 16K|26.4|759|759/940|
+|39|Claude Sonnet 4 Thinking 64K|26.0|651|651/940|
+|40|DeepSeek R1|24.4|651|651/940|
+|41|GPT-OSS-120B|24.1|759|759/940|
+|42|Claude Opus 4.1 (no reasoning)|21.7|759|759/940|
+|43|Qwen 3 30B A3B|21.2|759|759/940|
+|44|Qwen 3 32B|21.0|759|759/940|
+|45|Qwen 3 30B A3B 25-07 Thinking|20.9|759|759/940|
+|46|Claude 3.7 Sonnet Thinking 16K|19.7|651|651/940|
+|47|Claude Opus 4 (no reasoning)|19.7|759|759/940|
+|48|GPT-4.5 Preview|19.2|651|651/940|
+|49|Qwen 3 Next 80B A3B Thinking|18.5|759|759/940|
+|50|Qwen QwQ-32B 16K|17.8|651|651/940|
+|51|Grok 3 Mini Beta (high)|17.2|759|759/940|
+|52|GLM-4.5|17.0|759|759/940|
+|53|o1-mini|14.1|651|651/940|
+|54|Grok 3 Mini Beta (low)|14.0|651|651/940|
+|55|GPT-5 (minimal reasoning)|13.9|759|759/940|
+|56|Claude Sonnet 4 (no reasoning)|13.7|759|759/940|
+|57|Claude Opus 4.6 Thinking 32K|13.6|98|98/940|
+|58|Cohere Command A Reasoning|13.3|759|759/940|
+|59|Gemini 2.5 Flash|12.8|759|759/940|
+|60|Grok 4 Fast Non-Reasoning|12.5|759|759/940|
+|61|GLM-4.6|12.5|759|759/940|
+|62|Sherlock Dash Alpha|12.2|759|759/940|
+|63|Quasar Alpha|12.1|651|651/940|
+|64|Gemini 2.0 Flash Think Exp 01-21|12.0|649|649/940|
+|65|Cohere Command A+|12.0|898|898/940|
+|66|GPT-4o Mar 2025|11.8|759|759/940|
+|67|Qwen 3 Max Preview|11.6|759|759/940|
+|68|Gemini 2.0 Pro Exp 02-05|11.2|651|651/940|
+|69|Kimi K2-0905|11.0|759|759/940|
+|70|GPT-4.1|10.8|759|759/940|
+|71|Sonoma Dusk Alpha|10.6|759|759/940|
+|72|MiniMax-M1|10.5|688|688/940|
+|73|GPT-4o Feb 2025|10.3|651|651/940|
+|74|Polaris Alpha|10.2|759|759/940|
+|75|DeepSeek V3.1 Non-Think|10.1|759|759/940|
+|76|GPT-5.1 (no reasoning)|10.0|759|759/940|
+|77|Grok 3 Beta (no reasoning)|9.0|759|759/940|
+|78|Kimi K2|8.9|759|759/940|
+|79|Claude 3.7 Sonnet|8.7|651|651/940|
+|80|Gemini 1.5 Pro (Sept)|8.7|601|601/940|
+|81|Qwen 3 235B A22B 25-07 Instruct|8.6|759|759/940|
+|82|GPT-4o 2024-11-20|8.6|601|601/940|
+|83|Grok 2 12-12|8.5|651|651/940|
+|84|Gemini 2.0 Flash|8.3|651|651/940|
+|85|Claude 3 Opus|8.2|650|650/940|
+|86|Claude 3.5 Sonnet 2024-10-22|8.1|651|651/940|
+|87|GPT-4o 2024-08-06|7.6|601|601/940|
+|88|Llama 4 Scout|7.6|759|759/940|
+|89|Qwen 2.5 Max|7.6|651|651/940|
+|90|DeepSeek V3-0324|7.4|759|759/940|
+|91|Llama 3.1 405B|6.7|651|651/940|
+|92|Baidu Ernie 4.5 300B A47B|6.5|759|759/940|
+|93|DeepSeek V4 Flash|6.2|651|651/940|
+|94|GPT-4.1 mini|6.1|759|759/940|
+|95|Llama 3.3 70B|5.9|651|651/940|
+|96|MiniMax-Text-01|5.9|759|759/940|
+|97|Mistral Medium 3.1|5.5|759|759/940|
+|98|LongCat Flash|5.2|660|660/940|
+|99|Cohere Command A|5.0|759|759/940|
+|100|Mistral Large 3|4.8|759|759/940|
+|101|Mistral Small 3.2|4.3|759|759/940|
+|102|Gemma 2 27B|4.3|651|651/940|
+|103|Mistral Small 3.1|4.2|651|651/940|
+|104|Gemma 3 27B|4.2|759|759/940|
+|105|Amazon Nova Pro|4.1|759|759/940|
+|106|Qwen 2.5 72B|4.0|759|759/940|
+|107|Claude 3.5 Haiku|3.8|759|759/940|
+|108|Microsoft Phi-4|3.4|759|759/940|
+|109|GPT-4o mini|3.4|759|759/940|
+|110|Mistral Small 3|3.0|601|601/940|
+|111|GPT-4.1 nano|2.8|759|759/940|
+|112|GLM4-32B-0414|2.7|759|759/940|
+|113|Claude 3 Haiku|0.7|601|601/940|
 ---
 
 ## Notes
@@ -601,6 +658,8 @@ These legacy or incomplete runs use the same scoring rule but are excluded from 
 
 ## Updates
 
+- November 17, 2026: ByteDance Seed2.1 Pro added.
+- November 17, 2026: GPT-6.2 Astra (high) and GPT-6.2 Sol (high) added.
 - November 15, 2026: Qwen 4 Max (high) added.
 - November 10, 2026: Gemini 4 Carbon (high reasoning) added.
 - November 10, 2026: Claude Fable 5.2 (high reasoning) added.
